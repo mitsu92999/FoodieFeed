@@ -5466,8 +5466,1405 @@
         ],
         "imageURL": "",
         "originalURL": ""
+    },
+    {
+        "name": "Garlic Butter Shrimp Pasta",
+        "ingredients": [
+            {
+                "quantity": "8 oz",
+                "name": "linguine pasta",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "1 lb",
+                "name": "large shrimp, peeled and deveined",
+                "type": "Seafood"
+            },
+            {
+                "quantity": "4 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "unsalted butter",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "chopped fresh parsley",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "lemon juice",
+                "type": "Produce"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Grated Parmesan cheese",
+                "name": "for serving",
+                "type": "Dairy"
+            }
+        ],
+        "steps": [
+            "Cook pasta according to package instructions. Drain and set aside.",
+            "In a large skillet, melt butter over medium heat. Add minced garlic and cook until fragrant.",
+            "Add shrimp to the skillet and cook until pink and opaque, about 2-3 minutes per side.",
+            "Stir in cooked pasta, chopped parsley, and lemon juice. Toss until well combined.",
+            "Season with salt and pepper to taste.",
+            "Serve hot, garnished with grated Parmesan cheese.",
+            "Enjoy your garlic butter shrimp pasta!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Caprese Stuffed Avocados",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "name": "avocados, halved and pitted",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "cherry tomatoes, halved",
+                "type": "Produce"
+            },
+            {
+                "quantity": "4 oz",
+                "name": "fresh mozzarella, diced",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "fresh basil, chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "balsamic glaze",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Scoop out a little extra avocado from each half to create more room for stuffing.",
+            "In a bowl, combine cherry tomatoes, fresh mozzarella, and chopped basil.",
+            "Season with salt and pepper to taste and toss to combine.",
+            "Spoon the tomato and mozzarella mixture into the avocado halves.",
+            "Drizzle balsamic glaze over the stuffed avocados.",
+            "Serve immediately and enjoy your caprese stuffed avocados!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Mushroom Risotto",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "Arborio rice",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "4 cups",
+                "name": "vegetable broth",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, finely chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "8 oz",
+                "name": "mushrooms, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "dry white wine",
+                "type": "Alcoholic Beverages"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "grated Parmesan cheese",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "butter",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "chopped fresh parsley",
+                "type": "Produce"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "In a saucepan, heat vegetable broth over medium heat. Keep warm.",
+            "In a large skillet, heat olive oil over medium heat. Add chopped onion and cook until translucent.",
+            "Add minced garlic and sliced mushrooms to the skillet. Cook until mushrooms are golden brown.",
+            "Stir in Arborio rice and cook for 1-2 minutes until lightly toasted.",
+            "Pour in dry white wine and cook until the liquid is absorbed.",
+            "Add a ladleful of warm vegetable broth to the skillet and stir until absorbed.",
+            "Continue adding broth, one ladleful at a time, stirring constantly, until rice is creamy and tender, about 20-25 minutes.",
+            "Stir in grated Parmesan cheese, butter, and chopped parsley. Season with salt and pepper to taste.",
+            "Serve hot, garnished with additional grated Parmesan cheese and parsley if desired.",
+            "Enjoy your mushroom risotto!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Honey Mustard Glazed Salmon",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "name": "salmon fillets",
+                "type": "Seafood"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "honey",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "Dijon mustard",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "lemon juice",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "paprika",
+                "type": "Spices"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Chopped fresh parsley",
+                "name": "for garnish",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 400°F (200°C).",
+            "In a small bowl, whisk together honey, Dijon mustard, olive oil, minced garlic, lemon juice, paprika, salt, and pepper.",
+            "Place salmon fillets on a baking sheet lined with parchment paper.",
+            "Brush the honey mustard glaze over the salmon fillets.",
+            "Bake in the preheated oven for 12-15 minutes, or until salmon is cooked through and flakes easily with a fork.",
+            "Garnish with chopped fresh parsley before serving.",
+            "Enjoy your honey mustard glazed salmon!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            12,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegetarian Stuffed Bell Peppers",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "name": "bell peppers, halved and seeds removed",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "cooked quinoa",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "1 can (15 oz)",
+                "name": "black beans, drained and rinsed",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "corn kernels",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "diced tomatoes",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "shredded cheddar cheese",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "chili powder",
+                "type": "Spices"
+            },
+            {
+                "quantity": "1/2 tsp",
+                "name": "cumin",
+                "type": "Spices"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Chopped fresh cilantro",
+                "name": "for garnish",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 375°F (190°C).",
+            "In a large bowl, combine cooked quinoa, black beans, corn kernels, diced tomatoes, shredded cheddar cheese, minced garlic, chili powder, cumin, salt, and pepper.",
+            "Mix until well combined.",
+            "Stuff each bell pepper half with the quinoa and vegetable mixture.",
+            "Place stuffed bell peppers in a baking dish.",
+            "Cover with foil and bake in the preheated oven for 25-30 minutes.",
+            "Remove foil and bake for an additional 10 minutes, or until bell peppers are tender.",
+            "Garnish with chopped fresh cilantro before serving.",
+            "Enjoy your vegetarian stuffed bell peppers!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            25,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Crispy Baked Chicken Tenders",
+        "ingredients": [
+            {
+                "quantity": "1 lb",
+                "name": "chicken tenders",
+                "type": "Meat"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "breadcrumbs",
+                "type": "Bread"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "grated Parmesan cheese",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "garlic powder",
+                "type": "Spices"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "paprika",
+                "type": "Spices"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "all-purpose flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2",
+                "name": "eggs",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Cooking spray",
+                "name": "for greasing",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Honey mustard sauce",
+                "name": "for serving",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 400°F (200°C).",
+            "Line a baking sheet with parchment paper and lightly grease with cooking spray.",
+            "In one shallow dish, combine breadcrumbs, grated Parmesan cheese, garlic powder, paprika, salt, and pepper.",
+            "In another shallow dish, place all-purpose flour.",
+            "In a third shallow dish, beat eggs.",
+            "Dredge each chicken tender in flour, then dip into beaten eggs, and finally coat with breadcrumb mixture.",
+            "Place coated chicken tenders on the prepared baking sheet.",
+            "Bake in the preheated oven for 15-20 minutes, or until chicken is cooked through and coating is golden brown and crispy.",
+            "Serve hot with honey mustard sauce for dipping.",
+            "Enjoy your crispy baked chicken tenders!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            15,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Greek Salad",
+        "ingredients": [
+            {
+                "quantity": "4 cups",
+                "name": "chopped romaine lettuce",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "cherry tomatoes, halved",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 English cucumber, sliced",
+                "name": "cucumber, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "Kalamata olives",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "thinly sliced red onion",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "crumbled feta cheese",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "extra virgin olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "red wine vinegar",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "dried oregano",
+                "type": "Spices"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "In a large salad bowl, combine chopped romaine lettuce, cherry tomatoes, sliced cucumber, Kalamata olives, thinly sliced red onion, and crumbled feta cheese.",
+            "In a small bowl, whisk together extra virgin olive oil, red wine vinegar, dried oregano, salt, and pepper to make the dressing.",
+            "Pour the dressing over the salad and toss to coat evenly.",
+            "Adjust seasoning if necessary.",
+            "Serve chilled and enjoy your Greek salad!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Lemon Garlic Butter Grilled Shrimp",
+        "ingredients": [
+            {
+                "quantity": "1 lb",
+                "name": "large shrimp, peeled and deveined",
+                "type": "Seafood"
+            },
+            {
+                "quantity": "4 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "unsalted butter, melted",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "fresh lemon juice",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "chopped fresh parsley",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 tsp",
+                "name": "crushed red pepper flakes",
+                "type": "Spices"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Preheat grill to medium-high heat.",
+            "In a small bowl, combine minced garlic, melted unsalted butter, fresh lemon juice, chopped fresh parsley, crushed red pepper flakes, salt, and pepper.",
+            "Thread shrimp onto skewers.",
+            "Brush both sides of shrimp with the lemon garlic butter mixture.",
+            "Grill shrimp for 2-3 minutes per side, or until pink and opaque.",
+            "Remove shrimp from the grill and serve immediately.",
+            "Enjoy your lemon garlic butter grilled shrimp!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Quinoa Black Bean Salad",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "cooked quinoa",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "1 can (15 oz)",
+                "name": "black beans, drained and rinsed",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "corn kernels",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "red bell pepper, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "green bell pepper, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "chopped fresh cilantro",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "lime juice",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "ground cumin",
+                "type": "Spices"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "In a large salad bowl, combine cooked quinoa, black beans, corn kernels, diced red bell pepper, diced green bell pepper, and chopped fresh cilantro.",
+            "In a small bowl, whisk together lime juice, olive oil, ground cumin, salt, and pepper to make the dressing.",
+            "Pour the dressing over the salad and toss to coat evenly.",
+            "Adjust seasoning if necessary.",
+            "Serve chilled and enjoy your quinoa black bean salad!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Teriyaki Tofu Stir-Fry",
+        "ingredients": [
+            {
+                "quantity": "14 oz",
+                "name": "extra firm tofu, pressed and cubed",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "broccoli florets",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "red bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "yellow bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "carrot, julienned",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "zucchini, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "tamari sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "sesame oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "cornstarch",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "water",
+                "type": "Drinks"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Cooked rice or quinoa",
+                "name": "for serving",
+                "type": "Pasta and Grains"
+            }
+        ],
+        "steps": [
+            "In a small bowl, mix together tamari sauce, minced garlic, sesame oil, cornstarch, water, salt, and pepper to make the sauce. Set aside.",
+            "Heat a large skillet or wok over medium-high heat.",
+            "Add a small amount of oil to the skillet.",
+            "Add tofu cubes to the skillet and cook until golden brown on all sides.",
+            "Remove tofu from the skillet and set aside.",
+            "In the same skillet, add more oil if needed.",
+            "Add broccoli florets, sliced red bell pepper, sliced yellow bell pepper, julienned carrot, and sliced zucchini to the skillet. Stir-fry for 3-4 minutes until vegetables are tender-crisp.",
+            "Pour the sauce over the vegetables in the skillet.",
+            "Stir well to coat the vegetables in the sauce.",
+            "Return the cooked tofu to the skillet and toss to combine.",
+            "Cook for an additional 2-3 minutes until the sauce has thickened and tofu is heated through.",
+            "Remove from heat and serve hot over cooked rice or quinoa.",
+            "Enjoy your teriyaki tofu stir-fry!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Lemon Blueberry Muffins",
+        "ingredients": [
+            {
+                "quantity": "1 1/2 cups",
+                "name": "gluten-free all-purpose flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "granulated sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tsp",
+                "name": "baking powder",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/4 tsp",
+                "name": "salt",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "unsweetened applesauce",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "vegetable oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "fresh lemon juice",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "lemon zest",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "fresh blueberries",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "powdered sugar",
+                "type": "Baking"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 375°F (190°C). Line a muffin tin with paper liners or grease with non-stick cooking spray.",
+            "In a large mixing bowl, whisk together gluten-free all-purpose flour, granulated sugar, baking powder, and salt.",
+            "In a separate bowl, mix together unsweetened applesauce, vegetable oil, fresh lemon juice, and lemon zest.",
+            "Add wet ingredients to dry ingredients and stir until just combined.",
+            "Gently fold in fresh blueberries.",
+            "Fill each muffin cup about 3/4 full with batter.",
+            "Bake in the preheated oven for 18-20 minutes, or until a toothpick inserted into the center comes out clean.",
+            "Allow muffins to cool in the pan for 5 minutes, then transfer to a wire rack to cool completely.",
+            "Once cooled, dust with powdered sugar before serving.",
+            "Enjoy your gluten-free lemon blueberry muffins!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            18,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Chocolate Chip Cookies",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "gluten-free all-purpose flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/2 tsp",
+                "name": "baking soda",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/4 tsp",
+                "name": "salt",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "unsalted butter, softened",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "granulated sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "packed brown sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1",
+                "name": "egg",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "vanilla extract",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "semisweet chocolate chips",
+                "type": "Baking"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C). Line a baking sheet with parchment paper.",
+            "In a small bowl, whisk together gluten-free all-purpose flour, baking soda, and salt.",
+            "In a large mixing bowl, cream together softened unsalted butter, granulated sugar, and packed brown sugar until light and fluffy.",
+            "Beat in egg and vanilla extract until well combined.",
+            "Gradually add dry ingredients to the wet ingredients and mix until just combined.",
+            "Fold in semisweet chocolate chips.",
+            "Drop tablespoonfuls of dough onto the prepared baking sheet, spacing them about 2 inches apart.",
+            "Bake in the preheated oven for 10-12 minutes, or until edges are golden brown.",
+            "Allow cookies to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+            "Enjoy your gluten-free chocolate chip cookies!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Banana Bread",
+        "ingredients": [
+            {
+                "quantity": "2 cups",
+                "name": "gluten-free all-purpose flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "baking soda",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/4 tsp",
+                "name": "salt",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "unsalted butter, softened",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": "granulated sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2",
+                "name": "eggs",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "3",
+                "name": "ripe bananas, mashed",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/3 cup",
+                "name": "milk",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "vanilla extract",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "chopped walnuts (optional)",
+                "type": "Baking"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C). Grease a 9x5-inch loaf pan.",
+            "In a medium bowl, whisk together gluten-free all-purpose flour, baking soda, and salt.",
+            "In a large mixing bowl, cream together softened unsalted butter and granulated sugar until light and fluffy.",
+            "Beat in eggs, one at a time, until well combined.",
+            "Stir in mashed ripe bananas, milk, and vanilla extract.",
+            "Gradually add dry ingredients to the wet ingredients and mix until just combined.",
+            "Fold in chopped walnuts if using.",
+            "Pour batter into the prepared loaf pan.",
+            "Bake in the preheated oven for 60-70 minutes, or until a toothpick inserted into the center comes out clean.",
+            "Allow banana bread to cool in the pan for 10 minutes before transferring to a wire rack to cool completely.",
+            "Slice and serve. Enjoy your gluten-free banana bread!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            60,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Chicken Alfredo",
+        "ingredients": [
+            {
+                "quantity": "8 oz",
+                "name": "gluten-free fettuccine",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "2",
+                "name": "boneless, skinless chicken breasts",
+                "type": "Meat"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "4 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "heavy cream",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "grated Parmesan cheese",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "unsalted butter",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Chopped fresh parsley",
+                "name": "for garnish",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "Cook gluten-free fettuccine according to package instructions. Drain and set aside.",
+            "Season chicken breasts with salt and pepper.",
+            "In a large skillet, heat olive oil over medium-high heat.",
+            "Add seasoned chicken breasts to the skillet and cook until golden brown and cooked through, about 6-7 minutes per side.",
+            "Remove chicken from the skillet and set aside.",
+            "In the same skillet, add minced garlic and cook until fragrant, about 1 minute.",
+            "Stir in heavy cream, grated Parmesan cheese, and unsalted butter.",
+            "Cook, stirring constantly, until the sauce has thickened and cheese has melted.",
+            "Slice cooked chicken breasts into strips.",
+            "Return sliced chicken to the skillet and toss to coat in the Alfredo sauce.",
+            "Add cooked fettuccine to the skillet and toss until evenly coated in the sauce.",
+            "Season with additional salt and pepper if needed.",
+            "Garnish with chopped fresh parsley before serving.",
+            "Enjoy your gluten-free chicken Alfredo!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegetarian Lentil Soup",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "dried green lentils",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "6 cups",
+                "name": "vegetable broth",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2",
+                "name": "carrots, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 stalks",
+                "name": "celery, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "3 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "dried thyme",
+                "type": "Spices"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "dried oregano",
+                "type": "Spices"
+            },
+            {
+                "quantity": "1/2 tsp",
+                "name": "ground cumin",
+                "type": "Spices"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "spinach leaves",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Chopped fresh parsley",
+                "name": "for garnish",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "Rinse dried green lentils under cold water and drain well.",
+            "In a large pot, heat olive oil over medium heat.",
+            "Add diced onion, carrots, and celery to the pot. Cook, stirring occasionally, until vegetables are softened, about 5-7 minutes.",
+            "Add minced garlic, dried thyme, dried oregano, and ground cumin to the pot. Cook for an additional 1-2 minutes until fragrant.",
+            "Stir in dried green lentils and vegetable broth.",
+            "Bring the soup to a boil, then reduce heat to low and let it simmer, partially covered, for 25-30 minutes, or until lentils are tender.",
+            "Stir in spinach leaves and cook until wilted.",
+            "Season with salt and pepper to taste.",
+            "Garnish with chopped fresh parsley before serving.",
+            "Enjoy your vegetarian lentil soup!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Caprese Pasta Salad",
+        "ingredients": [
+            {
+                "quantity": "8 oz",
+                "name": "rotini pasta",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "cherry tomatoes, halved",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "ball fresh mozzarella, diced",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "fresh basil leaves, chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "balsamic vinegar",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "extra virgin olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Cook rotini pasta according to package instructions. Drain and rinse with cold water.",
+            "In a large bowl, combine cooked rotini pasta, halved cherry tomatoes, diced fresh mozzarella, and chopped fresh basil leaves.",
+            "Drizzle balsamic vinegar and extra virgin olive oil over the pasta salad.",
+            "Season with salt and pepper to taste.",
+            "Toss until everything is well coated.",
+            "Serve chilled or at room temperature.",
+            "Enjoy your Caprese pasta salad!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Mediterranean Chickpea Salad",
+        "ingredients": [
+            {
+                "quantity": "2 cans (15 oz each)",
+                "name": "chickpeas, drained and rinsed",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "cherry tomatoes, halved",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "cucumber, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "red onion, thinly sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "Kalamata olives, pitted and halved",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "crumbled feta cheese",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "extra virgin olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "red wine vinegar",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "dried oregano",
+                "type": "Spices"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "In a large salad bowl, combine drained and rinsed chickpeas, halved cherry tomatoes, diced cucumber, thinly sliced red onion, halved Kalamata olives, and crumbled feta cheese.",
+            "In a small bowl, whisk together extra virgin olive oil, red wine vinegar, dried oregano, salt, and pepper to make the dressing.",
+            "Pour the dressing over the salad and toss to coat evenly.",
+            "Adjust seasoning if necessary.",
+            "Serve chilled and enjoy your Mediterranean chickpea salad!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Honey Garlic Shrimp Stir-Fry",
+        "ingredients": [
+            {
+                "quantity": "1 lb",
+                "name": "large shrimp, peeled and deveined",
+                "type": "Seafood"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "broccoli florets",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "red bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "yellow bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "honey",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "soy sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "4 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "sesame oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tsp",
+                "name": "cornstarch",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "water",
+                "type": "Drinks"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "vegetable oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Cooked rice",
+                "name": "for serving",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "Sesame seeds",
+                "name": "for garnish",
+                "type": "Baking"
+            },
+            {
+                "quantity": "Thinly sliced green onions",
+                "name": "for garnish",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "In a small bowl, whisk together honey, soy sauce, minced garlic, sesame oil, cornstarch, and water to make the sauce. Set aside.",
+            "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+            "Add broccoli florets, sliced red bell pepper, and sliced yellow bell pepper to the skillet. Stir-fry for 3-4 minutes until vegetables are tender-crisp.",
+            "Push vegetables to one side of the skillet and add peeled and deveined shrimp to the other side.",
+            "Cook shrimp for 2-3 minutes on each side until pink and opaque.",
+            "Stir the sauce and pour it over the shrimp and vegetables in the skillet.",
+            "Cook, stirring constantly, until the sauce has thickened and coats the shrimp and vegetables.",
+            "Season with salt and pepper to taste.",
+            "Serve hot over cooked rice.",
+            "Garnish with sesame seeds and thinly sliced green onions.",
+            "Enjoy your honey garlic shrimp stir-fry!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
     }
 ]
-
-
-
