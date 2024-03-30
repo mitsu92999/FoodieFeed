@@ -40,7 +40,7 @@
             0,
             420
         ],
-        "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+        "imageURL": "https://hips.hearstapps.com/hmg-prod/images/slow-cooker-pot-roast-recipe-2-1676060935.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
         "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
     },
     {
@@ -132,7 +132,7 @@
             20,
             0
         ],
-        "imageURL": "http://dagzhsfg97k4.cloudfront.net/wp-content/uploads/2012/05/lentils3.jpg"
+        "imageURL": "https://www.skinnytaste.com/wp-content/uploads/2023/05/Lentil-Curry-7.jpg"
     },
     {
         "name": "Big Night Pizza",
@@ -469,8 +469,8 @@
             0,
             0
         ],
-        "imageURL": "http://www.canadianliving.com/img/photos/biz/blueberry-oatmeal-squares5801359401371.jpg",
-        "originalURL": "http://www.canadianliving.com/food/blueberry_oatmeal_squares.php"
+        "imageURL": "https://salu-salo.com/wp-content/uploads/2013/08/Blueberry-Oatmeal-Squares-3.jpg",
+        "originalURL": ""
     },
     {
         "name": "Curried chicken salad",
@@ -560,5 +560,2704 @@
         ],
         "imageURL": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg",
         "originalURL": "http://www.chatelaine.com/recipe/stovetop-cooking-method/curried-chicken-salad/"
+    },
+    {
+        "name": "Grilled Lemon Herb Chicken",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "name": "boneless, skinless chicken breasts",
+                "type": "Meat"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1",
+                "name": "lemon, juiced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "fresh rosemary, chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt and pepper",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Preheat grill to medium-high heat.",
+            "In a bowl, mix together olive oil, lemon juice, minced garlic, and chopped rosemary.",
+            "Season chicken breasts with salt and pepper, then brush with the lemon herb mixture.",
+            "Grill chicken for 6-8 minutes per side, or until cooked through.",
+            "Serve hot with your favorite sides."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://www.feastingathome.com/wp-content/uploads/2021/06/Grilled-lemon-Herb-Chicken-17.jpg",
+        "originalURL": ""
+    },
+    {
+        "name": "Classic Caesar Salad",
+        "ingredients": [
+            {
+                "quantity": "1 head",
+                "name": "romaine lettuce, chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "croutons",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "grated Parmesan cheese",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "Caesar dressing",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "In a large bowl, combine chopped romaine lettuce and croutons.",
+            "Drizzle Caesar dressing over the salad and toss until evenly coated.",
+            "Sprinkle grated Parmesan cheese on top.",
+            "Serve immediately as a refreshing appetizer or side dish."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://www.allrecipes.com/thmb/mXZ0Tulwn3x9_YB_ZbkiTveDYFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229063-Classic-Restaurant-Caesar-Salad-ddmfs-4x3-231-89bafa5e54dd4a8c933cf2a5f9f12a6f.jpg",
+        "originalURL": ""
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+            {
+                "quantity": "8 oz",
+                "name": "spaghetti",
+                "type": "Pasta"
+            },
+            {
+                "quantity": "4 slices",
+                "name": "bacon, diced",
+                "type": "Meat"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2",
+                "name": "large eggs",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "grated Parmesan cheese",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt and pepper",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Cook spaghetti according to package instructions until al dente. Drain and set aside.",
+            "In a skillet, cook diced bacon until crispy. Add minced garlic and cook until fragrant.",
+            "In a bowl, whisk together eggs and grated Parmesan cheese. Season with salt and pepper.",
+            "Toss cooked spaghetti in the skillet with the bacon and garlic.",
+            "Remove skillet from heat and quickly stir in the egg mixture until the spaghetti is coated.",
+            "Serve immediately with additional Parmesan cheese on top."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://www.allrecipes.com/thmb/Y7ftij8uq7sM2VpxGt-RHZg3yaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-mfs-042-21d5decdffde4a1faa94a21725ce9cc3.jpg",
+        "originalURL": ""
+    },
+    {
+        "name": "Honey Glazed Salmon",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "name": "salmon fillets",
+                "type": "Seafood"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "honey",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "soy sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "Dijon mustard",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 clove",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt and pepper",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 400°F.",
+            "In a small bowl, whisk together honey, soy sauce, Dijon mustard, and minced garlic.",
+            "Place salmon fillets on a baking sheet lined with parchment paper.",
+            "Brush salmon with the honey glaze and season with salt and pepper.",
+            "Bake for 12-15 minutes, or until salmon is cooked through and flakes easily with a fork.",
+            "Serve hot with your favorite sides."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://hips.hearstapps.com/del.h-cdn.co/assets/17/39/1506456157-delish-honey-garlic-glazed-salmon-1.jpg?crop=0.668xw:1.00xh;0.0277xw,0&resize=1200:*",
+        "originalURL": ""
+    },
+    {
+        "name": "Caprese Salad",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "name": "large tomatoes, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "8 oz",
+                "name": "fresh mozzarella cheese, sliced",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "fresh basil leaves",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "balsamic glaze",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt and pepper",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Arrange tomato slices and mozzarella slices on a serving platter, alternating between them.",
+            "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+            "Drizzle balsamic glaze over the salad and season with salt and pepper.",
+            "Serve immediately as a light and refreshing appetizer or side dish."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://whatsgabycooking.com/wp-content/uploads/2023/06/Dinner-Party-__-Traditional-Caprese-1-1200x800-1.jpg",
+        "originalURL": ""
+    },
+    {
+        "name": "Stuffed Bell Peppers",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "name": "large bell peppers",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 lb",
+                "name": "ground beef",
+                "type": "Meat"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "cooked rice",
+                "type": "Grains"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "marinara sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "shredded mozzarella cheese",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt and pepper",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 375°F.",
+            "Cut the tops off the bell peppers and remove the seeds and membranes.",
+            "In a skillet, cook ground beef until browned. Drain excess fat.",
+            "Stir in cooked rice and marinara sauce, then season with salt and pepper.",
+            "Spoon the beef and rice mixture into the hollowed-out bell peppers.",
+            "Sprinkle shredded mozzarella cheese on top of each stuffed pepper.",
+            "Place stuffed peppers in a baking dish and cover with foil.",
+            "Bake for 25-30 minutes, or until peppers are tender and cheese is melted and bubbly.",
+            "Serve hot with additional marinara sauce if desired."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://www.budgetbytes.com/wp-content/uploads/2023/08/Stuffed-Bell-Peppers-close.jpg",
+        "originalURL": ""
+    },
+    {
+        "name": "Lemon Garlic Shrimp Pasta",
+        "ingredients": [
+            {
+                "quantity": "8 oz",
+                "name": "spaghetti",
+                "type": "Pasta"
+            },
+            {
+                "quantity": "1 lb",
+                "name": "large shrimp, peeled and deveined",
+                "type": "Seafood"
+            },
+            {
+                "quantity": "4 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "lemon, zested and juiced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt and pepper",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "for garnish",
+                "name": "Fresh parsley",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "Cook spaghetti according to package instructions until al dente. Drain and set aside.",
+            "In a skillet, heat olive oil over medium heat. Add minced garlic and cook until fragrant.",
+            "Add shrimp to the skillet and cook until pink and opaque.",
+            "Stir in lemon zest and juice, then season with salt and pepper.",
+            "Toss cooked spaghetti with the lemon garlic shrimp until evenly combined.",
+            "Serve hot with a sprinkle of fresh parsley on top."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://www.sipandfeast.com/wp-content/uploads/2019/01/lemon-garlic-shrimp-pasta-snippet.jpg",
+        "originalURL": ""
+    },
+    {
+        "name": "Homemade Margherita Pizza",
+        "ingredients": [
+            {
+                "quantity": "1 lb",
+                "name": "pizza dough",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "marinara sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "8 oz",
+                "name": "fresh mozzarella cheese, sliced",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "2",
+                "name": "large tomatoes, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "for garnish",
+                "name": "Fresh basil leaves",
+                "type": "Produce"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt and pepper",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 450°F.",
+            "Roll out pizza dough on a lightly floured surface to desired thickness.",
+            "Transfer rolled dough to a pizza stone or baking sheet lined with parchment paper.",
+            "Spread marinara sauce evenly over the dough, leaving a small border around the edges.",
+            "Arrange mozzarella cheese slices and tomato slices on top of the sauce.",
+            "Season with salt and pepper, then top with fresh basil leaves.",
+            "Bake for 12-15 minutes, or until crust is golden brown and cheese is melted and bubbly.",
+            "Slice and serve hot as a delicious homemade pizza."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://www.foodandwine.com/thmb/3kzG4PWOAgZIIfZwMBLKqoTkaGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/margherita-pizza-with-argula-and-prosciutto-FT-RECIPE0721-04368ec288a84d2e997573aca0001d98.jpg",
+        "originalURL": ""
+    },
+    {
+        "name": "Beef and Broccoli Stir Fry",
+        "ingredients": [
+            {
+                "quantity": "1 lb",
+                "name": "flank steak, thinly sliced",
+                "type": "Meat"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "broccoli florets",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "soy sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "oyster sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "cornstarch",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "vegetable oil",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "In a small bowl, whisk together soy sauce, oyster sauce, minced garlic, and cornstarch.",
+            "Heat vegetable oil in a large skillet or wok over high heat.",
+            "Add sliced flank steak to the skillet and stir fry until browned and cooked through.",
+            "Add broccoli florets to the skillet and continue stir frying until tender-crisp.",
+            "Pour the sauce mixture over the beef and broccoli, stirring constantly until thickened.",
+            "Serve hot over cooked rice or noodles."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://healthyfitnessmeals.com/wp-content/uploads/2022/03/Beef-and-broccoli-stir-fry-7.jpg",
+        "originalURL": ""
+    },
+    {
+        "name": "Creamy Mushroom Risotto",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "Arborio rice",
+                "type": "Grains"
+            },
+            {
+                "quantity": "4 cups",
+                "name": "chicken or vegetable broth",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "dry white wine",
+                "type": "Alcoholic Beverages"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "mushrooms, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "grated Parmesan cheese",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "butter",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt and pepper",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "In a saucepan, heat chicken or vegetable broth until simmering.",
+            "In a separate large skillet, melt butter over medium heat. Add minced garlic and cook until fragrant.",
+            "Add Arborio rice to the skillet and cook, stirring constantly, for 2-3 minutes until lightly toasted.",
+            "Pour in dry white wine and cook until absorbed, stirring frequently.",
+            "Begin adding the simmering broth to the rice, one ladleful at a time, stirring constantly until absorbed before adding more.",
+            "Continue adding broth and stirring until the rice is creamy and tender, about 20-25 minutes.",
+            "Stir in sliced mushrooms and grated Parmesan cheese, then season with salt and pepper to taste.",
+            "Serve hot as a comforting and satisfying main dish."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://www.threeolivesbranch.com/wp-content/uploads/2020/12/creamy-mushroom-risotto-threeolivesbranch-6-500x375.jpg",
+        "originalURL": ""
     }
-]
+        {
+            "name": "Baked Teriyaki Chicken",
+            "ingredients": [
+                {
+                    "quantity": "4",
+                    "name": "boneless, skinless chicken breasts",
+                    "type": "Meat"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "soy sauce",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "brown sugar",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "mirin",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "2 cloves",
+                    "name": "garlic, minced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1 teaspoon",
+                    "name": "ginger, grated",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1 tablespoon",
+                    "name": "cornstarch",
+                    "type": "Baking"
+                }
+            ],
+            "steps": [
+                "Preheat oven to 375°F.",
+                "In a saucepan, combine soy sauce, brown sugar, mirin, minced garlic, and grated ginger. Bring to a simmer.",
+                "In a small bowl, mix cornstarch with a little water to form a slurry. Slowly add to the saucepan, stirring constantly until thickened.",
+                "Place chicken breasts in a baking dish and pour teriyaki sauce over them.",
+                "Bake for 25-30 minutes, or until chicken is cooked through.",
+                "Serve hot with steamed rice and vegetables."
+            ],
+            "timers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "imageURL": "https://www.lecremedelacrumb.com/wp-content/uploads/2018/03/baked-teriyaki-chicken-102-500x500.jpg",
+            "originalURL": ""
+        },
+        {
+            "name": "Mediterranean Quinoa Salad",
+            "ingredients": [
+                {
+                    "quantity": "1 cup",
+                    "name": "quinoa",
+                    "type": "Grains"
+                },
+                {
+                    "quantity": "2 cups",
+                    "name": "cherry tomatoes, halved",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1 cup",
+                    "name": "cucumber, diced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "Kalamata olives, pitted and halved",
+                    "type": "Canned Goods"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "red onion, finely chopped",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "feta cheese, crumbled",
+                    "type": "Dairy"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "name": "olive oil",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "1 tablespoon",
+                    "name": "lemon juice",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1 teaspoon",
+                    "name": "dried oregano",
+                    "type": "Spices"
+                },
+                {
+                    "quantity": "to taste",
+                    "name": "Salt and pepper",
+                    "type": "Condiments"
+                }
+            ],
+            "steps": [
+                "Rinse quinoa under cold water and cook according to package instructions. Fluff with a fork and let cool.",
+                "In a large bowl, combine cooked quinoa, cherry tomatoes, cucumber, Kalamata olives, and red onion.",
+                "In a small bowl, whisk together olive oil, lemon juice, dried oregano, salt, and pepper.",
+                "Pour dressing over the quinoa salad and toss until evenly coated.",
+                "Sprinkle crumbled feta cheese on top before serving.",
+                "Serve chilled as a refreshing and nutritious side dish."
+            ],
+            "timers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "imageURL": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2019-11-recipe-mediterranean-quinoa-salad%2F2019-10-21_Kitchn89095_Mediteranean-Quinoa-Salad",
+            "originalURL": ""
+        },
+        {
+            "name": "Garlic Butter Shrimp Scampi",
+            "ingredients": [
+                {
+                    "quantity": "1 lb",
+                    "name": "large shrimp, peeled and deveined",
+                    "type": "Seafood"
+                },
+                {
+                    "quantity": "8 oz",
+                    "name": "linguine",
+                    "type": "Pasta"
+                },
+                {
+                    "quantity": "4 tablespoons",
+                    "name": "unsalted butter",
+                    "type": "Dairy"
+                },
+                {
+                    "quantity": "4 cloves",
+                    "name": "garlic, minced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "white wine",
+                    "type": "Alcoholic Beverages"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "chicken broth",
+                    "type": "Canned Goods"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "name": "fresh parsley, chopped",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1 tablespoon",
+                    "name": "lemon juice",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "to taste",
+                    "name": "Salt and pepper",
+                    "type": "Condiments"
+                }
+            ],
+            "steps": [
+                "Cook linguine according to package instructions until al dente. Drain and set aside.",
+                "In a large skillet, melt butter over medium heat. Add minced garlic and cook until fragrant.",
+                "Add shrimp to the skillet and cook until pink and opaque. Remove shrimp and set aside.",
+                "Deglaze the skillet with white wine, scraping up any browned bits from the bottom.",
+                "Stir in chicken broth and lemon juice. Simmer until slightly reduced.",
+                "Return shrimp to the skillet and add cooked linguine. Toss until evenly coated.",
+                "Season with salt and pepper, then sprinkle chopped parsley on top before serving.",
+                "Serve hot as a delicious and flavorful pasta dish."
+            ],
+            "timers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "imageURL": "",
+            "originalURL": ""
+        },
+        {
+            "name": "Thai Red Curry with Vegetables",
+            "ingredients": [
+                {
+                    "quantity": "1",
+                    "name": "bell pepper, sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1",
+                    "name": "carrot, sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1",
+                    "name": "zucchini, sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1",
+                    "name": "onion, sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "name": "red curry paste",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "1 can (14 oz)",
+                    "name": "coconut milk",
+                    "type": "Canned Goods"
+                },
+                {
+                    "quantity": "1 tablespoon",
+                    "name": "fish sauce",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "1 tablespoon",
+                    "name": "brown sugar",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "vegetable broth",
+                    "type": "Canned Goods"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "fresh basil leaves",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "to taste",
+                    "name": "Salt",
+                    "type": "Condiments"
+                }
+            ],
+            "steps": [
+                "In a large skillet or wok, heat vegetable oil over medium-high heat.",
+                "Add sliced bell pepper, carrot, zucchini, and onion. Stir fry until slightly tender.",
+                "Add red curry paste to the skillet and stir until vegetables are coated.",
+                "Pour in coconut milk, fish sauce, brown sugar, and vegetable broth. Bring to a simmer.",
+                "Simmer for 10-15 minutes, or until vegetables are cooked through and sauce has thickened.",
+                "Season with salt to taste, then stir in fresh basil leaves before serving.",
+                "Serve hot over steamed rice as a satisfying and aromatic Thai-inspired dish."
+            ],
+            "timers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "imageURL": "",
+            "originalURL": ""
+        },
+        {
+            "name": "Baked Lemon Garlic Salmon",
+            "ingredients": [
+                {
+                    "quantity": "4",
+                    "name": "salmon fillets",
+                    "type": "Seafood"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "olive oil",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "name": "lemon juice",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "2 cloves",
+                    "name": "garlic, minced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1 teaspoon",
+                    "name": "dried oregano",
+                    "type": "Spices"
+                },
+                {
+                    "quantity": "1 teaspoon",
+                    "name": "dried thyme",
+                    "type": "Spices"
+                },
+                {
+                    "quantity": "1/2 teaspoon",
+                    "name": "paprika",
+                    "type": "Spices"
+                },
+                {
+                    "quantity": "to taste",
+                    "name": "Salt and pepper",
+                    "type": "Condiments"
+                }
+            ],
+            "steps": [
+                "Preheat oven to 375°F.",
+                "In a small bowl, whisk together olive oil, lemon juice, minced garlic, dried oregano, dried thyme, and paprika.",
+                "Place salmon fillets on a baking sheet lined with parchment paper.",
+                "Brush salmon with the lemon garlic mixture and season with salt and pepper.",
+                "Bake for 12-15 minutes, or until salmon is cooked through and flakes easily with a fork.",
+                "Serve hot with your favorite sides."
+            ],
+            "timers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "imageURL": "",
+            "originalURL": ""
+        },
+        {
+            "name": "Vegetable Stir Fry",
+            "ingredients": [
+                {
+                    "quantity": "2 cups",
+                    "name": "broccoli florets",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1",
+                    "name": "bell pepper, sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1",
+                    "name": "carrot, sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1",
+                    "name": "zucchini, sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "snap peas",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "soy sauce",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "name": "hoisin sauce",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "1 tablespoon",
+                    "name": "sesame oil",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "2 cloves",
+                    "name": "garlic, minced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1 teaspoon",
+                    "name": "fresh ginger, grated",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "to taste",
+                    "name": "Salt and pepper",
+                    "type": "Condiments"
+                }
+            ],
+            "steps": [
+                "Heat sesame oil in a large skillet or wok over medium-high heat.",
+                "Add minced garlic and grated ginger to the skillet and cook until fragrant.",
+                "Add broccoli florets, sliced bell pepper, carrot, zucchini, and snap peas to the skillet. Stir fry until vegetables are tender-crisp.",
+                "In a small bowl, whisk together soy sauce and hoisin sauce. Pour over the vegetables in the skillet.",
+                "Stir until vegetables are evenly coated with the sauce.",
+                "Season with salt and pepper to taste, then serve hot over cooked rice or noodles."
+            ],
+            "timers": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "imageURL": "",
+            "originalURL": ""
+        },
+        {
+            "name": "Crispy Baked Chicken Tenders",
+            "ingredients": [
+                {
+                    "quantity": "1 lb",
+                    "name": "chicken tenders",
+                    "type": "Meat"
+                },
+                {
+                    "quantity": "1 cup",
+                    "name": "breadcrumbs",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "grated Parmesan cheese",
+                    "type": "Dairy"
+                },
+                {
+                    "quantity": "1 teaspoon",
+                    "name": "garlic powder",
+                    "type": "Spices"
+                },
+                {
+                    "quantity": "1 teaspoon",
+                    "name": "paprika",
+                    "type": "Spices"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "all-purpose flour",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "2",
+                    "name": "eggs",
+                    "type": "Dairy"
+                },
+                {
+                    "quantity": "to taste",
+                    "name": "Salt and pepper",
+                    "type": "Condiments"
+                }
+            ],
+            "steps": [
+                "Preheat oven to 400°F.",
+                "In a shallow dish, combine breadcrumbs, grated Parmesan cheese, garlic powder, and paprika.",
+                "Place all-purpose flour in another shallow dish, and beat eggs in a third shallow dish.",
+                "Season chicken tenders with salt and pepper.",
+                "Dredge each chicken tender in flour, then dip into beaten eggs, and coat with breadcrumb mixture.",
+                "Place coated chicken tenders on a baking sheet lined with parchment paper.",
+                "Bake for 15-20 minutes, or until chicken is cooked through and coating is golden and crispy.",
+                "Serve hot with your favorite dipping sauce."
+            ],
+            "timers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "imageURL": "",
+            "originalURL": ""
+        },
+        {
+            "name": "Caprese Salad",
+            "ingredients": [
+                {
+                    "quantity": "2",
+                    "name": "large tomatoes, sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "8 oz",
+                    "name": "fresh mozzarella cheese, sliced",
+                    "type": "Dairy"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "fresh basil leaves",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "name": "balsamic glaze",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "name": "extra virgin olive oil",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "to taste",
+                    "name": "Salt and pepper",
+                    "type": "Condiments"
+                }
+            ],
+            "steps": [
+                "Arrange alternating slices of tomato and mozzarella cheese on a serving platter.",
+                "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+                "Drizzle extra virgin olive oil and balsamic glaze over the salad.",
+                "Season with salt and pepper to taste.",
+                "Serve immediately as a refreshing and elegant appetizer or side dish."
+            ],
+            "timers": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "imageURL": "",
+            "originalURL": ""
+        },
+        {
+            "name": "Sesame Ginger Beef Stir Fry",
+            "ingredients": [
+                {
+                    "quantity": "1 lb",
+                    "name": "beef sirloin, thinly sliced",
+                    "type": "Meat"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "name": "soy sauce",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "name": "hoisin sauce",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "1 tablespoon",
+                    "name": "sesame oil",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "2 cloves",
+                    "name": "garlic, minced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1 tablespoon",
+                    "name": "fresh ginger, grated",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "2",
+                    "name": "bell peppers, sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1",
+                    "name": "onion, sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "sesame seeds, toasted",
+                    "type": "Spices"
+                },
+                {
+                    "quantity": "to taste",
+                    "name": "Salt and pepper",
+                    "type": "Condiments"
+                }
+            ],
+            "steps": [
+                "In a bowl, whisk together soy sauce, hoisin sauce, sesame oil, minced garlic, and grated ginger.",
+                "Season beef sirloin slices with salt and pepper.",
+                "Heat vegetable oil in a large skillet or wok over high heat.",
+                "Add beef slices to the skillet and stir fry until browned and cooked through.",
+                "Remove beef from skillet and set aside.",
+                "In the same skillet, stir fry sliced bell peppers and onion until tender-crisp.",
+                "Return beef to the skillet, pour the sauce over, and toss to coat.",
+                "Sprinkle toasted sesame seeds over the stir fry before serving.",
+                "Serve hot over cooked rice or noodles."
+            ],
+            "timers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "imageURL": "",
+            "originalURL": ""
+        },
+        {
+            "name": "Greek Salad",
+            "ingredients": [
+                {
+                    "quantity": "2",
+                    "name": "ripe tomatoes, cut into wedges",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1",
+                    "name": "cucumber, sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1/2",
+                    "name": "red onion, thinly sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "Kalamata olives, pitted",
+                    "type": "Canned Goods"
+                },
+                {
+                    "quantity": "4 oz",
+                    "name": "feta cheese, crumbled",
+                    "type": "Dairy"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "extra virgin olive oil",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "name": "red wine vinegar",
+                    "type": "Condiments"
+                },
+                {
+                    "quantity": "1 teaspoon",
+                    "name": "dried oregano",
+                    "type": "Spices"
+                },
+                {
+                    "quantity": "to taste",
+                    "name": "Salt and pepper",
+                    "type": "Condiments"
+                }
+            ],
+            "steps": [
+                "In a large bowl, combine tomato wedges, sliced cucumber, thinly sliced red onion, and Kalamata olives.",
+                "In a small bowl, whisk together extra virgin olive oil, red wine vinegar, dried oregano, salt, and pepper.",
+                "Pour dressing over the salad and toss until evenly coated.",
+                "Top with crumbled feta cheese before serving.",
+                "Serve chilled as a refreshing and flavorful salad."
+            ],
+            "timers": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "imageURL": "",
+            "originalURL": ""
+        }
+            {
+                "name": "Honey Garlic Glazed Salmon",
+                "ingredients": [
+                    {
+                        "quantity": "4",
+                        "name": "salmon fillets",
+                        "type": "Seafood"
+                    },
+                    {
+                        "quantity": "1/4 cup",
+                        "name": "honey",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "soy sauce",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "2 cloves",
+                        "name": "garlic, minced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "rice vinegar",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "1 teaspoon",
+                        "name": "sesame oil",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "1/2 teaspoon",
+                        "name": "ground ginger",
+                        "type": "Spices"
+                    },
+                    {
+                        "quantity": "1/2 teaspoon",
+                        "name": "cornstarch",
+                        "type": "Baking"
+                    },
+                    {
+                        "quantity": "to taste",
+                        "name": "Salt and pepper",
+                        "type": "Condiments"
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 400°F.",
+                    "In a small saucepan, combine honey, soy sauce, minced garlic, rice vinegar, sesame oil, ground ginger, and cornstarch.",
+                    "Bring the mixture to a simmer over medium heat, stirring constantly until thickened.",
+                    "Place salmon fillets on a baking sheet lined with parchment paper.",
+                    "Season salmon with salt and pepper, then brush with the honey garlic glaze.",
+                    "Bake for 12-15 minutes, or until salmon is cooked through and flakes easily with a fork.",
+                    "Serve hot with your favorite sides."
+                ],
+                "timers": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "imageURL": "",
+                "originalURL": ""
+            },
+            {
+                "name": "Chicken Alfredo Pasta",
+                "ingredients": [
+                    {
+                        "quantity": "8 oz",
+                        "name": "fettuccine pasta",
+                        "type": "Pasta"
+                    },
+                    {
+                        "quantity": "2",
+                        "name": "boneless, skinless chicken breasts",
+                        "type": "Meat"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "butter",
+                        "type": "Dairy"
+                    },
+                    {
+                        "quantity": "2 cloves",
+                        "name": "garlic, minced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1 cup",
+                        "name": "heavy cream",
+                        "type": "Dairy"
+                    },
+                    {
+                        "quantity": "1 cup",
+                        "name": "grated Parmesan cheese",
+                        "type": "Dairy"
+                    },
+                    {
+                        "quantity": "to taste",
+                        "name": "Salt and pepper",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "chopped fresh parsley",
+                        "type": "Produce"
+                    }
+                ],
+                "steps": [
+                    "Cook fettuccine pasta according to package instructions. Drain and set aside.",
+                    "Season chicken breasts with salt and pepper.",
+                    "In a large skillet, melt butter over medium heat. Add minced garlic and cook until fragrant.",
+                    "Add chicken breasts to the skillet and cook until golden brown and cooked through. Remove from skillet and slice into strips.",
+                    "In the same skillet, pour in heavy cream and bring to a simmer.",
+                    "Stir in grated Parmesan cheese until melted and smooth.",
+                    "Add cooked fettuccine pasta and sliced chicken to the skillet, tossing until evenly coated in the Alfredo sauce.",
+                    "Season with salt and pepper to taste, then garnish with chopped fresh parsley before serving.",
+                    "Serve hot as a comforting and indulgent pasta dish."
+                ],
+                "timers": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "imageURL": "",
+                "originalURL": ""
+            },
+            {
+                "name": "Vegetarian Chili",
+                "ingredients": [
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "olive oil",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "1",
+                        "name": "onion, diced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "2",
+                        "name": "bell peppers, diced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "2 cloves",
+                        "name": "garlic, minced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1",
+                        "name": "jalapeno pepper, seeded and diced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1 can (15 oz)",
+                        "name": "black beans, drained and rinsed",
+                        "type": "Canned Goods"
+                    },
+                    {
+                        "quantity": "1 can (15 oz)",
+                        "name": "kidney beans, drained and rinsed",
+                        "type": "Canned Goods"
+                    },
+                    {
+                        "quantity": "1 can (15 oz)",
+                        "name": "diced tomatoes",
+                        "type": "Canned Goods"
+                    },
+                    {
+                        "quantity": "1 cup",
+                        "name": "vegetable broth",
+                        "type": "Canned Goods"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "chili powder",
+                        "type": "Spices"
+                    },
+                    {
+                        "quantity": "1 teaspoon",
+                        "name": "ground cumin",
+                        "type": "Spices"
+                    },
+                    {
+                        "quantity": "to taste",
+                        "name": "Salt and pepper",
+                        "type": "Condiments"
+                    }
+                ],
+                "steps": [
+                    "In a large pot, heat olive oil over medium heat.",
+                    "Add diced onion, bell peppers, minced garlic, and diced jalapeno pepper to the pot. Cook until softened.",
+                    "Stir in black beans, kidney beans, diced tomatoes, vegetable broth, chili powder, and ground cumin.",
+                    "Bring the mixture to a simmer and let cook for 20-25 minutes, stirring occasionally.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot with your favorite toppings such as shredded cheese, sour cream, or chopped cilantro."
+                ],
+                "timers": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "imageURL": "",
+                "originalURL": ""
+            },
+            {
+                "name": "Mango Chicken Curry",
+                "ingredients": [
+                    {
+                        "quantity": "1 lb",
+                        "name": "boneless, skinless chicken thighs, cut into bite-sized pieces",
+                        "type": "Meat"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "vegetable oil",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "1",
+                        "name": "onion, diced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "2 cloves",
+                        "name": "garlic, minced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "curry powder",
+                        "type": "Spices"
+                    },
+                    {
+                        "quantity": "1 teaspoon",
+                        "name": "ground turmeric",
+                        "type": "Spices"
+                    },
+                    {
+                        "quantity": "1/2 teaspoon",
+                        "name": "ground cumin",
+                        "type": "Spices"
+                    },
+                    {
+                        "quantity": "1/2 teaspoon",
+                        "name": "ground coriander",
+                        "type": "Spices"
+                    },
+                    {
+                        "quantity": "1/2 teaspoon",
+                        "name": "cayenne pepper",
+                        "type": "Spices"
+                    },
+                    {
+                        "quantity": "1 can (14 oz)",
+                        "name": "coconut milk",
+                        "type": "Canned Goods"
+                    },
+                    {
+                        "quantity": "1",
+                        "name": "ripe mango, peeled, pitted, and diced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "to taste",
+                        "name": "Salt",
+                        "type": "Condiments"
+                    }
+                ],
+                "steps": [
+                    "Heat vegetable oil in a large skillet over medium heat.",
+                    "Add diced onion and minced garlic to the skillet. Cook until softened and fragrant.",
+                    "Add curry powder, ground turmeric, ground cumin, ground coriander, and cayenne pepper to the skillet. Stir until spices are fragrant.",
+                    "Add chicken thighs to the skillet and cook until browned on all sides.",
+                    "Stir in coconut milk and diced mango. Bring the mixture to a simmer.",
+                    "Let simmer for 15-20 minutes, or until chicken is cooked through and sauce has thickened.",
+                    "Season with salt to taste.",
+                    "Serve hot over steamed rice as a flavorful and satisfying meal."
+                ],
+                "timers": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "imageURL": "",
+                "originalURL": ""
+            },
+            {
+                "name": "Teriyaki Tofu Stir Fry",
+                "ingredients": [
+                    {
+                        "quantity": "1 block (14 oz)",
+                        "name": "firm tofu, cubed",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "soy sauce",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "teriyaki sauce",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "sesame oil",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "vegetable oil",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "2 cloves",
+                        "name": "garlic, minced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1",
+                        "name": "bell pepper, sliced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1",
+                        "name": "carrot, sliced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1 cup",
+                        "name": "snap peas",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "to taste",
+                        "name": "Salt and pepper",
+                        "type": "Condiments"
+                    }
+                ],
+                "steps": [
+                    "In a bowl, combine cubed tofu, soy sauce, and teriyaki sauce. Let marinate for 15-20 minutes.",
+                    "In a large skillet or wok, heat vegetable oil over medium-high heat.",
+                    "Add minced garlic to the skillet and cook until fragrant.",
+                    "Add marinated tofu to the skillet and cook until browned on all sides.",
+                    "Stir in sliced bell pepper, sliced carrot, and snap peas. Cook until vegetables are tender-crisp.",
+                    "Drizzle sesame oil over the stir fry and toss to combine.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot over cooked rice or noodles."
+                ],
+                "timers": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "imageURL": "",
+                "originalURL": ""
+            },
+            {
+                "name": "Lemon Herb Roasted Chicken",
+                "ingredients": [
+                    {
+                        "quantity": "1",
+                        "name": "whole chicken (about 4-5 lbs)",
+                        "type": "Meat"
+                    },
+                    {
+                        "quantity": "1/4 cup",
+                        "name": "olive oil",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "lemon juice",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "2 cloves",
+                        "name": "garlic, minced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "fresh rosemary, chopped",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "fresh thyme leaves",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "fresh parsley, chopped",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "to taste",
+                        "name": "Salt and pepper",
+                        "type": "Condiments"
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 425°F.",
+                    "Rinse the chicken inside and out, and pat dry with paper towels.",
+                    "In a small bowl, whisk together olive oil, lemon juice, minced garlic, chopped rosemary, thyme leaves, and chopped parsley.",
+                    "Season the chicken with salt and pepper, then rub the herb mixture all over the chicken, inside and out.",
+                    "Place the chicken on a rack in a roasting pan, breast side up.",
+                    "Roast for 1 hour and 15 minutes to 1 hour and 30 minutes, or until the juices run clear and an instant-read thermometer inserted into the thickest part of the thigh registers 165°F.",
+                    "Let the chicken rest for 10-15 minutes before carving.",
+                    "Serve hot with your favorite side dishes."
+                ],
+                "timers": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "imageURL": "",
+                "originalURL": ""
+            },
+            {
+                "name": "Pesto Pasta with Cherry Tomatoes",
+                "ingredients": [
+                    {
+                        "quantity": "8 oz",
+                        "name": "pasta (such as spaghetti or penne)",
+                        "type": "Pasta"
+                    },
+                    {
+                        "quantity": "1/2 cup",
+                        "name": "basil pesto",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "1 pint",
+                        "name": "cherry tomatoes, halved",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1/4 cup",
+                        "name": "grated Parmesan cheese",
+                        "type": "Dairy"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "extra virgin olive oil",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "to taste",
+                        "name": "Salt and pepper",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "chopped fresh basil",
+                        "type": "Produce"
+                    }
+                ],
+                "steps": [
+                    "Cook pasta according to package instructions. Drain and return to the pot.",
+                    "In a small skillet, heat olive oil over medium heat. Add halved cherry tomatoes and cook until softened.",
+                    "Add cherry tomatoes to the cooked pasta in the pot, along with basil pesto and grated Parmesan cheese.",
+                    "Toss until pasta is evenly coated with pesto and cheese.",
+                    "Season with salt and pepper to taste.",
+                    "Garnish with chopped fresh basil before serving.",
+                    "Serve hot as a simple and flavorful pasta dish."
+                ],
+                "timers": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "imageURL": "",
+                "originalURL": ""
+            },
+            {
+                "name": "Beef and Broccoli Stir Fry",
+                "ingredients": [
+                    {
+                        "quantity": "1 lb",
+                        "name": "beef sirloin, thinly sliced",
+                        "type": "Meat"
+                    },
+                    {
+                        "quantity": "1/4 cup",
+                        "name": "soy sauce",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "oyster sauce",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "brown sugar",
+                        "type": "Baking"
+                    },
+                    {
+                        "quantity": "2 cloves",
+                        "name": "garlic, minced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "cornstarch",
+                        "type": "Baking"
+                    },
+                    {
+                        "quantity": "1/4 cup",
+                        "name": "water",
+                        "type": "Drinks"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "vegetable oil",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "4 cups",
+                        "name": "broccoli florets",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "to taste",
+                        "name": "Salt and pepper",
+                        "type": "Condiments"
+                    }
+                ],
+                "steps": [
+                    "In a bowl, combine thinly sliced beef sirloin, soy sauce, oyster sauce, brown sugar, minced garlic, and cornstarch. Let marinate for 15-20 minutes.",
+                    "In a small bowl, mix together water and cornstarch to create a slurry.",
+                    "Heat vegetable oil in a large skillet or wok over high heat.",
+                    "Add marinated beef to the skillet and cook until browned and cooked through.",
+                    "Remove beef from skillet and set aside.",
+                    "In the same skillet, add broccoli florets and cook until tender-crisp.",
+                    "Return beef to the skillet, pour in the cornstarch slurry, and toss until everything is coated and sauce has thickened.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot over cooked rice or noodles."
+                ],
+                "timers": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "imageURL": "",
+                "originalURL": ""
+            },
+            {
+                "name": "Mushroom Risotto",
+                "ingredients": [
+                    {
+                        "quantity": "1 cup",
+                        "name": "Arborio rice",
+                        "type": "Grains"
+                    },
+                    {
+                        "quantity": "4 cups",
+                        "name": "vegetable broth",
+                        "type": "Canned Goods"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "butter",
+                        "type": "Dairy"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "olive oil",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "1",
+                        "name": "onion, diced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "2 cloves",
+                        "name": "garlic, minced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "8 oz",
+                        "name": "mushrooms, sliced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1/2 cup",
+                        "name": "dry white wine",
+                        "type": "Alcoholic Beverages"
+                    },
+                    {
+                        "quantity": "1/2 cup",
+                        "name": "grated Parmesan cheese",
+                        "type": "Dairy"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "chopped fresh parsley",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "to taste",
+                        "name": "Salt and pepper",
+                        "type": "Condiments"
+                    }
+                ],
+                "steps": [
+                    "In a saucepan, heat vegetable broth over medium heat until simmering.",
+                    "In a large skillet, melt butter with olive oil over medium heat.",
+                    "Add diced onion and minced garlic to the skillet. Cook until softened and fragrant.",
+                    "Stir in Arborio rice and cook for 1-2 minutes until lightly toasted.",
+                    "Pour in dry white wine and cook until evaporated.",
+                    "Gradually add simmering vegetable broth to the skillet, 1/2 cup at a time, stirring constantly and allowing each addition to be absorbed before adding more.",
+                    "Stir in sliced mushrooms and continue cooking until rice is creamy and tender.",
+                    "Stir in grated Parmesan cheese and chopped fresh parsley.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot as a luxurious and comforting risotto dish."
+                ],
+                "timers": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "imageURL": "",
+                "originalURL": ""
+            },
+            {
+                "name": "Thai Green Curry with Tofu",
+                "ingredients": [
+                    {
+                        "quantity": "1 block (14 oz)",
+                        "name": "firm tofu, cubed",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "Thai green curry paste",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "1 can (14 oz)",
+                        "name": "coconut milk",
+                        "type": "Canned Goods"
+                    },
+                    {
+                        "quantity": "1",
+                        "name": "bell pepper, sliced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1",
+                        "name": "zucchini, sliced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1",
+                        "name": "carrot, sliced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1",
+                        "name": "onion, sliced",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "vegetable oil",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "2 tablespoons",
+                        "name": "fish sauce",
+                        "type": "Condiments"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "brown sugar",
+                        "type": "Baking"
+                    },
+                    {
+                        "quantity": "1 tablespoon",
+                        "name": "lime juice",
+                        "type": "Produce"
+                    },
+                    {
+                        "quantity": "to taste",
+                        "name": "Salt",
+                        "type": "Condiments"
+                    }
+                ],
+                "steps": [
+                    "In a large skillet or wok, heat vegetable oil over medium heat.",
+                    "Add Thai green curry paste to the skillet and cook until fragrant.",
+                    "Stir in coconut milk, fish sauce, brown sugar, and lime juice.",
+                    "Add cubed tofu, sliced bell pepper, sliced zucchini, sliced carrot, and sliced onion to the skillet.",
+                    "Simmer until vegetables are tender and tofu is heated through.",
+                    "Season with salt to taste.",
+                    "Serve hot over steamed rice as a flavorful and satisfying curry."
+                ],
+                "timers": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "imageURL": "",
+                "originalURL": ""
+            }
+                {
+                    "name": "Classic Chocolate Chip Cookies",
+                    "ingredients": [
+                        {
+                            "quantity": "2 1/4 cups",
+                            "name": "all-purpose flour",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 teaspoon",
+                            "name": "baking soda",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 teaspoon",
+                            "name": "salt",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1 cup",
+                            "name": "unsalted butter, softened",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "3/4 cup",
+                            "name": "granulated sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "3/4 cup",
+                            "name": "packed brown sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 teaspoon",
+                            "name": "vanilla extract",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "2",
+                            "name": "large eggs",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "2 cups",
+                            "name": "semisweet chocolate chips",
+                            "type": "Baking"
+                        }
+                    ],
+                    "steps": [
+                        "Preheat oven to 375°F.",
+                        "In a small bowl, combine flour, baking soda, and salt. Set aside.",
+                        "In a large bowl, beat together softened butter, granulated sugar, brown sugar, and vanilla extract until creamy.",
+                        "Add eggs one at a time, beating well after each addition.",
+                        "Gradually beat in flour mixture.",
+                        "Stir in chocolate chips.",
+                        "Drop by rounded tablespoonfuls onto ungreased baking sheets.",
+                        "Bake for 9-11 minutes or until golden brown.",
+                        "Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.",
+                        "Enjoy these classic chocolate chip cookies with a glass of milk or on their own!"
+                    ],
+                    "timers": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "imageURL": "",
+                    "originalURL": ""
+                },
+                {
+                    "name": "Homemade Brownies",
+                    "ingredients": [
+                        {
+                            "quantity": "1 cup",
+                            "name": "unsalted butter",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "2 cups",
+                            "name": "granulated sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "4",
+                            "name": "large eggs",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "1 teaspoon",
+                            "name": "vanilla extract",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1 cup",
+                            "name": "all-purpose flour",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "3/4 cup",
+                            "name": "unsweetened cocoa powder",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1/2 teaspoon",
+                            "name": "salt",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1/2 teaspoon",
+                            "name": "baking powder",
+                            "type": "Baking"
+                        }
+                    ],
+                    "steps": [
+                        "Preheat oven to 350°F.",
+                        "Grease a 9x13 inch baking pan.",
+                        "In a large saucepan, melt butter over medium heat. Remove from heat and stir in sugar, eggs, and vanilla extract.",
+                        "Beat in flour, cocoa powder, salt, and baking powder until well blended.",
+                        "Spread the batter evenly into the prepared pan.",
+                        "Bake for 20 to 25 minutes, or until the brownies begin to pull away from the edges of the pan.",
+                        "Let cool on a wire rack before cutting into squares.",
+                        "Serve these homemade brownies warm or at room temperature for a decadent treat!"
+                    ],
+                    "timers": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "imageURL": "",
+                    "originalURL": ""
+                },
+                {
+                    "name": "Classic Vanilla Cupcakes",
+                    "ingredients": [
+                        {
+                            "quantity": "1 1/2 cups",
+                            "name": "all-purpose flour",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 1/2 teaspoons",
+                            "name": "baking powder",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1/4 teaspoon",
+                            "name": "salt",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1/2 cup",
+                            "name": "unsalted butter, softened",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "1 cup",
+                            "name": "granulated sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "2",
+                            "name": "large eggs",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "2 teaspoons",
+                            "name": "vanilla extract",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1/2 cup",
+                            "name": "milk",
+                            "type": "Dairy"
+                        }
+                    ],
+                    "steps": [
+                        "Preheat oven to 350°F.",
+                        "Line a muffin tin with paper liners.",
+                        "In a medium bowl, whisk together flour, baking powder, and salt. Set aside.",
+                        "In a large bowl, cream together softened butter and granulated sugar until light and fluffy.",
+                        "Beat in eggs, one at a time, then stir in vanilla extract.",
+                        "Gradually mix in the dry ingredients alternating with milk, beginning and ending with the dry ingredients.",
+                        "Fill each muffin cup 2/3 full with batter.",
+                        "Bake for 18 to 20 minutes, or until a toothpick inserted into the center comes out clean.",
+                        "Cool cupcakes in the muffin tin for 5 minutes before transferring to a wire rack to cool completely.",
+                        "Frost with your favorite frosting and decorate as desired."
+                    ],
+                    "timers": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "imageURL": "",
+                    "originalURL": ""
+                },
+                {
+                    "name": "Lemon Bars",
+                    "ingredients": [
+                        {
+                            "quantity": "1 cup",
+                            "name": "unsalted butter, softened",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "2 cups",
+                            "name": "all-purpose flour",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1/2 cup",
+                            "name": "powdered sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "4",
+                            "name": "large eggs",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "1 1/2 cups",
+                            "name": "granulated sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1/4 cup",
+                            "name": "all-purpose flour",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1/2 cup",
+                            "name": "fresh lemon juice",
+                            "type": "Produce"
+                        },
+                        {
+                            "quantity": "2 teaspoons",
+                            "name": "grated lemon zest",
+                            "type": "Produce"
+                        },
+                        {
+                            "quantity": "1/4 teaspoon",
+                            "name": "baking powder",
+                            "type": "Baking"
+                        }
+                    ],
+                    "steps": [
+                        "Preheat oven to 350°F.",
+                        "In a medium bowl, combine softened butter, 2 cups flour, and powdered sugar. Press into the bottom of an ungreased 9x13 inch baking pan.",
+                        "Bake for 20 minutes in the preheated oven, until firm and golden.",
+                        "In another bowl, whisk together eggs, granulated sugar, 1/4 cup flour, lemon juice, lemon zest, and baking powder.",
+                        "Pour over the baked crust and return to the oven.",
+                        "Bake for an additional 20 to 25 minutes, or until the bars are set.",
+                        "Allow to cool completely in the pan before slicing into bars.",
+                        "Dust with powdered sugar before serving, if desired.",
+                        "Enjoy these tangy and sweet lemon bars as a delightful dessert!"
+                    ],
+                    "timers": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "imageURL": "",
+                    "originalURL": ""
+                },
+                {
+                    "name": "Red Velvet Cake",
+                    "ingredients": [
+                        {
+                            "quantity": "2 1/2 cups",
+                            "name": "all-purpose flour",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 1/2 cups",
+                            "name": "granulated sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 teaspoon",
+                            "name": "baking soda",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 teaspoon",
+                            "name": "salt",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1 teaspoon",
+                            "name": "cocoa powder",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 1/2 cups",
+                            "name": "vegetable oil",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1 cup",
+                            "name": "buttermilk, room temperature",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "2",
+                            "name": "large eggs, room temperature",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "2 tablespoons",
+                            "name": "red food coloring",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1 teaspoon",
+                            "name": "vanilla extract",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1 teaspoon",
+                            "name": "white vinegar",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1/4 cup",
+                            "name": "hot water",
+                            "type": "Drinks"
+                        }
+                    ],
+                    "steps": [
+                        "Preheat oven to 350°F. Grease and flour two 9-inch round cake pans.",
+                        "In a medium bowl, sift together flour, sugar, baking soda, salt, and cocoa powder.",
+                        "In a large bowl, combine oil, buttermilk, eggs, food coloring, vanilla extract, vinegar, and hot water.",
+                        "Gradually add the dry ingredients to the wet ingredients, mixing until smooth and well combined.",
+                        "Divide the batter evenly between the prepared cake pans.",
+                        "Bake for 25 to 30 minutes, or until a toothpick inserted into the center comes out clean.",
+                        "Allow cakes to cool in pans for 10 minutes, then remove from pans and transfer to wire racks to cool completely.",
+                        "Frost with cream cheese frosting and decorate as desired.",
+                        "Slice and serve this classic red velvet cake for a decadent dessert!"
+                    ],
+                    "timers": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "imageURL": "",
+                    "originalURL": ""
+                },
+                {
+                    "name": "Tiramisu",
+                    "ingredients": [
+                        {
+                            "quantity": "6",
+                            "name": "large egg yolks",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "3/4 cup",
+                            "name": "granulated sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 cup",
+                            "name": "mascarpone cheese",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "1 1/2 cups",
+                            "name": "heavy cream",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "2 cups",
+                            "name": "strong brewed coffee, cooled",
+                            "type": "Drinks"
+                        },
+                        {
+                            "quantity": "1/4 cup",
+                            "name": "coffee liqueur (optional)",
+                            "type": "Alcoholic Beverages"
+                        },
+                        {
+                            "quantity": "2 packages",
+                            "name": "ladyfinger cookies",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "2 tablespoons",
+                            "name": "unsweetened cocoa powder",
+                            "type": "Baking"
+                        }
+                    ],
+                    "steps": [
+                        "In a heatproof bowl, whisk together egg yolks and sugar until well combined.",
+                        "Place the bowl over a pot of simmering water, making sure the bottom of the bowl does not touch the water.",
+                        "Whisk constantly until the mixture thickens and doubles in volume, about 4-5 minutes.",
+                        "Remove from heat and whisk in mascarpone cheese until smooth. Set aside to cool slightly.",
+                        "In a separate bowl, whip heavy cream until stiff peaks form.",
+                        "Fold whipped cream into the mascarpone mixture until well combined.",
+                        "In a shallow dish, combine brewed coffee and coffee liqueur, if using.",
+                        "Quickly dip each ladyfinger cookie into the coffee mixture, making sure not to soak them for too long.",
+                        "Arrange a layer of soaked ladyfingers in the bottom of a 9x13 inch dish.",
+                        "Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of soaked ladyfingers and remaining mascarpone mixture.",
+                        "Cover and refrigerate for at least 4 hours or overnight.",
+                        "Before serving, dust the top with unsweetened cocoa powder.",
+                        "Slice and serve this classic Italian dessert chilled."
+                    ],
+                    "timers": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "imageURL": "",
+                    "originalURL": ""
+                },
+                {
+                    "name": "Apple Crisp",
+                    "ingredients": [
+                        {
+                            "quantity": "6",
+                            "name": "Granny Smith apples, peeled, cored, and sliced",
+                            "type": "Produce"
+                        },
+                        {
+                            "quantity": "1 tablespoon",
+                            "name": "lemon juice",
+                            "type": "Produce"
+                        },
+                        {
+                            "quantity": "1/4 cup",
+                            "name": "granulated sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 teaspoon",
+                            "name": "ground cinnamon",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 cup",
+                            "name": "all-purpose flour",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 cup",
+                            "name": "rolled oats",
+                            "type": "Grains"
+                        },
+                        {
+                            "quantity": "1 cup",
+                            "name": "packed brown sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1/2 cup",
+                            "name": "unsalted butter, melted",
+                            "type": "Dairy"
+                        }
+                    ],
+                    "steps": [
+                        "Preheat oven to 350°F.",
+                        "In a large bowl, toss sliced apples with lemon juice, granulated sugar, and ground cinnamon.",
+                        "Spread apple mixture evenly into a greased 9x13 inch baking dish.",
+                        "In a separate bowl, combine flour, rolled oats, brown sugar, and melted butter. Mix until crumbly.",
+                        "Sprinkle crumb mixture over the apples in the baking dish.",
+                        "Bake for 40 to 45 minutes, or until the topping is golden brown and the apples are tender.",
+                        "Serve warm with a scoop of vanilla ice cream for a comforting dessert!"
+                    ],
+                    "timers": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "imageURL": "",
+                    "originalURL": ""
+                },
+                {
+                    "name": "Chocolate Mousse",
+                    "ingredients": [
+                        {
+                            "quantity": "8 oz",
+                            "name": "semisweet chocolate, chopped",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "4",
+                            "name": "large eggs, separated",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "1/4 cup",
+                            "name": "granulated sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1/2 teaspoon",
+                            "name": "vanilla extract",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1 cup",
+                            "name": "heavy cream",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "2 tablespoons",
+                            "name": "powdered sugar",
+                            "type": "Baking"
+                        }
+                    ],
+                    "steps": [
+                        "Place chopped semisweet chocolate in a heatproof bowl set over a pan of simmering water. Stir occasionally until melted and smooth. Remove from heat and let cool slightly.",
+                        "In a large bowl, beat egg yolks with granulated sugar until thick and pale yellow.",
+                        "Stir in melted chocolate and vanilla extract until well combined.",
+                        "In a separate bowl, whip heavy cream until soft peaks form. Fold whipped cream into chocolate mixture.",
+                        "In another bowl, beat egg whites until stiff peaks form. Gradually fold in powdered sugar.",
+                        "Gently fold beaten egg whites into chocolate mixture until no white streaks remain.",
+                        "Spoon mousse into serving dishes or glasses.",
+                        "Refrigerate for at least 2 hours, or until set.",
+                        "Garnish with whipped cream and chocolate shavings before serving.",
+                        "Indulge in this rich and velvety chocolate mousse for a luxurious dessert experience!"
+                    ],
+                    "timers": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "imageURL": "",
+                    "originalURL": ""
+                },
+                {
+                    "name": "Banoffee Pie",
+                    "ingredients": [
+                        {
+                            "quantity": "1 1/2 cups",
+                            "name": "graham cracker crumbs",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1/3 cup",
+                            "name": "granulated sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "6 tablespoons",
+                            "name": "unsalted butter, melted",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "1 can (14 oz)",
+                            "name": "sweetened condensed milk",
+                            "type": "Canned Goods"
+                        },
+                        {
+                            "quantity": "2",
+                            "name": "bananas, sliced",
+                            "type": "Produce"
+                        },
+                        {
+                            "quantity": "1 cup",
+                            "name": "heavy cream",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "1 teaspoon",
+                            "name": "vanilla extract",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1",
+                            "name": "chocolate bar, grated",
+                            "type": "Baking"
+                        }
+                    ],
+                    "steps": [
+                        "Preheat oven to 350°F.",
+                        "In a medium bowl, combine graham cracker crumbs, granulated sugar, and melted butter. Press mixture into the bottom and up the sides of a 9-inch pie dish.",
+                        "Bake crust for 10 minutes, then remove from oven and let cool completely.",
+                        "Meanwhile, pour sweetened condensed milk into a pie dish. Cover tightly with aluminum foil and place in a larger baking dish. Fill the larger dish with hot water until it reaches halfway up the sides of the pie dish with the condensed milk.",
+                        "Bake for 1.5 to 2 hours, or until the condensed milk has thickened and caramelized. Let cool.",
+                        "Spread caramelized condensed milk evenly over the cooled crust.",
+                        "Arrange sliced bananas over the caramel layer.",
+                        "In a large bowl, whip heavy cream with vanilla extract until stiff peaks form. Spread whipped cream over the bananas.",
+                        "Sprinkle grated chocolate over the whipped cream layer.",
+                        "Chill in the refrigerator for at least 4 hours before serving.",
+                        "Slice and enjoy this heavenly banoffee pie with a perfect balance of caramel, bananas, whipped cream, and chocolate!"
+                    ],
+                    "timers": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "imageURL": "",
+                    "originalURL": ""
+                },
+                {
+                    "name": "Strawberry Shortcake",
+                    "ingredients": [
+                        {
+                            "quantity": "1 quart",
+                            "name": "fresh strawberries, hulled and sliced",
+                            "type": "Produce"
+                        },
+                        {
+                            "quantity": "1/4 cup",
+                            "name": "granulated sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "2 1/3 cups",
+                            "name": "all-purpose flour",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1 tablespoon",
+                            "name": "baking powder",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "1/4 teaspoon",
+                            "name": "salt",
+                            "type": "Condiments"
+                        },
+                        {
+                            "quantity": "1/3 cup",
+                            "name": "granulated sugar",
+                            "type": "Baking"
+                        },
+                        {
+                            "quantity": "6 tablespoons",
+                            "name": "unsalted butter, cold and cut into cubes",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "1 cup",
+                            "name": "heavy cream",
+                            "type": "Dairy"
+                        },
+                        {
+                            "quantity": "1 teaspoon",
+                            "name": "vanilla extract",
+                            "type": "Condiments"
+                        }
+                    ],
+                    "steps": [
+                        "Preheat oven to 425°F.",
+                        "In a large bowl, combine sliced strawberries with 1/4 cup granulated sugar. Set aside to macerate.",
+                        "In another large bowl, whisk together flour, baking powder, salt, and remaining 1/3 cup granulated sugar.",
+                        "Using a pastry blender or two knives, cut cold cubed butter into the flour mixture until it resembles coarse crumbs.",
+                        "Stir in heavy cream and vanilla extract until a dough forms.",
+                        "Turn the dough out onto a floured surface and gently knead a few times until it comes together.",
+                        "Pat the dough into a circle about 1 inch thick.",
+                        "Using a biscuit cutter, cut out rounds and place them on a baking sheet lined with parchment paper.",
+                        "Bake for 12 to 15 minutes, or until the shortcakes are golden brown.",
+                        "Let the shortcakes cool slightly before assembling.",
+                        "To assemble, slice the shortcakes in half horizontally. Spoon macerated strawberries and whipped cream over the bottom half of each shortcake, then place the top halves over the filling.",
+                        "Serve immediately and enjoy this classic strawberry shortcake!"
+                    ],
+                    "timers": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "imageURL": "",
+                    "originalURL": ""
+                }
+            ]
+            
+        
+    
