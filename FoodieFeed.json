@@ -3256,5 +3256,2218 @@
         ],
         "imageURL": "",
         "originalURL": ""
+    },
+    {
+        "name": "Vegan Chickpea Curry",
+        "ingredients": [
+            {
+                "quantity": "2 cans",
+                "name": "chickpeas, drained and rinsed",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "coconut oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "3 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "curry powder",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "ground turmeric",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 can",
+                "name": "coconut milk",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "vegetable broth",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "spinach",
+                "type": "Produce"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "In a large skillet, heat coconut oil over medium heat.",
+            "Add diced onion and minced garlic. Sauté until onions are translucent.",
+            "Stir in curry powder and ground turmeric. Cook for 1-2 minutes, until fragrant.",
+            "Add chickpeas, coconut milk, and vegetable broth. Bring to a simmer and let cook for 10-15 minutes, until sauce thickens.",
+            "Stir in spinach and cook until wilted.",
+            "Season with salt and pepper to taste.",
+            "Serve hot over rice or quinoa. Enjoy your vegan chickpea curry!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegan Lentil Soup",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "dried lentils",
+                "type": "Legumes"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2",
+                "name": "carrots, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2",
+                "name": "celery stalks, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "4 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "6 cups",
+                "name": "vegetable broth",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1 can",
+                "name": "diced tomatoes",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "dried thyme",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "ground cumin",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Rinse lentils under cold water and drain.",
+            "In a large pot, heat olive oil over medium heat.",
+            "Add chopped onion, diced carrots, and diced celery. Sauté until vegetables are softened.",
+            "Stir in minced garlic, dried thyme, and ground cumin. Cook for another minute until fragrant.",
+            "Add rinsed lentils, vegetable broth, diced tomatoes (with juices), salt, and pepper. Bring to a simmer.",
+            "Let the soup simmer for about 30-40 minutes, until lentils are tender.",
+            "Taste and adjust seasoning if needed.",
+            "Serve hot with crusty bread or enjoy on its own. Vegan lentil soup is ready to be served!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegan Pad Thai",
+        "ingredients": [
+            {
+                "quantity": "8 oz",
+                "name": "rice noodles",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "sesame oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, thinly sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2",
+                "name": "carrots, julienned",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "red bell pepper, thinly sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "firm tofu, cubed",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "bean sprouts",
+                "type": "Produce"
+            },
+            {
+                "quantity": "3",
+                "name": "green onions, chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "peanuts, chopped",
+                "type": "Nuts"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "cilantro, chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "soy sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "maple syrup",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "rice vinegar",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "sriracha sauce",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Cook rice noodles according to package instructions. Drain and set aside.",
+            "In a large skillet or wok, heat sesame oil over medium-high heat.",
+            "Add thinly sliced onion, julienned carrots, and thinly sliced red bell pepper. Stir-fry for 2-3 minutes until vegetables are tender-crisp.",
+            "Add cubed firm tofu and cook for another 2-3 minutes, until tofu is heated through.",
+            "Stir in cooked rice noodles, bean sprouts, and chopped green onions.",
+            "In a small bowl, whisk together soy sauce, maple syrup, rice vinegar, and sriracha sauce. Pour over the noodle mixture in the skillet.",
+            "Toss everything together until well combined and heated through.",
+            "Serve hot, garnished with chopped peanuts and cilantro.",
+            "Enjoy your delicious vegan pad thai!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegan Lentil Sloppy Joes",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "brown lentils",
+                "type": "Legumes"
+            },
+            {
+                "quantity": "3 cups",
+                "name": "vegetable broth",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "green bell pepper, chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 can",
+                "name": "tomato sauce",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "ketchup",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "maple syrup",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "mustard",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "chili powder",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 teaspoon",
+                "name": "smoked paprika",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Hamburger buns",
+                "name": "for serving",
+                "type": "Bread"
+            }
+        ],
+        "steps": [
+            "In a medium saucepan, combine brown lentils and vegetable broth. Bring to a boil, then reduce heat and simmer for 20-25 minutes, until lentils are tender. Drain any excess liquid and set aside.",
+            "In a large skillet, heat olive oil over medium heat.",
+            "Add chopped onion and chopped green bell pepper. Sauté until vegetables are softened.",
+            "Stir in minced garlic and cook for another minute.",
+            "Add cooked lentils, tomato sauce, ketchup, maple syrup, mustard, chili powder, smoked paprika, salt, and pepper to the skillet. Stir to combine.",
+            "Let the mixture simmer for 10-15 minutes, until heated through and flavors are melded together.",
+            "Taste and adjust seasoning if needed.",
+            "Serve hot on hamburger buns.",
+            "Enjoy your vegan lentil sloppy joes!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegan Mushroom Risotto",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "arborio rice",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "4 cups",
+                "name": "vegetable broth",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, finely chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "8 oz",
+                "name": "cremini mushrooms, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "dry white wine",
+                "type": "Alcohol"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "nutritional yeast",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "vegan butter",
+                "type": "Baking"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Fresh parsley",
+                "name": "for garnish",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "In a medium saucepan, heat vegetable broth over medium heat. Keep warm.",
+            "In a large skillet, heat olive oil over medium heat.",
+            "Add finely chopped onion and sauté until translucent.",
+            "Stir in minced garlic and cook for another minute.",
+            "Add sliced cremini mushrooms and cook until they release their juices and become tender.",
+            "Stir in arborio rice and cook for 1-2 minutes, until lightly toasted.",
+            "Pour in dry white wine and cook, stirring constantly, until the wine is absorbed.",
+            "Begin adding warm vegetable broth to the skillet, one ladleful at a time, stirring frequently. Allow each addition of broth to be absorbed before adding more.",
+            "Continue adding broth and stirring until the rice is creamy and cooked to your desired consistency (usually about 20-25 minutes).",
+            "Stir in nutritional yeast and vegan butter. Season with salt and pepper to taste.",
+            "Garnish with fresh parsley before serving.",
+            "Enjoy your creamy vegan mushroom risotto!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegan Tofu Stir-Fry",
+        "ingredients": [
+            {
+                "quantity": "1 block (14 oz)",
+                "name": "extra-firm tofu",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "soy sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "rice vinegar",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "sesame oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "carrot, julienned",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "zucchini, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "broccoli florets",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "cooked brown rice",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "cornstarch",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "water",
+                "type": "Drinks"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Sesame seeds",
+                "name": "for garnish",
+                "type": "Nuts"
+            },
+            {
+                "quantity": "Green onions",
+                "name": "for garnish",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "Press tofu to remove excess moisture, then cut into cubes.",
+            "In a small bowl, whisk together soy sauce, rice vinegar, and sesame oil. Set aside.",
+            "In a large skillet or wok, heat a small amount of oil over medium-high heat.",
+            "Add minced garlic and cook until fragrant.",
+            "Add tofu cubes to the skillet and cook until golden brown on all sides. Remove tofu from skillet and set aside.",
+            "In the same skillet, add bell pepper, julienned carrot, sliced zucchini, and broccoli florets. Stir-fry until vegetables are tender-crisp.",
+            "In a small bowl, mix together cornstarch and water to create a slurry.",
+            "Return tofu to the skillet, then pour soy sauce mixture over tofu and vegetables. Stir well to coat.",
+            "Add cornstarch slurry to the skillet and cook until sauce thickens.",
+            "Season with salt and pepper to taste.",
+            "Serve hot over cooked brown rice.",
+            "Garnish with sesame seeds and chopped green onions before serving.",
+            "Enjoy your delicious vegan tofu stir-fry!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegan Black Bean Burgers",
+        "ingredients": [
+            {
+                "quantity": "1 can (15 oz)",
+                "name": "black beans, drained and rinsed",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "cooked quinoa",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "finely chopped onion",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "finely chopped bell pepper",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "chopped cilantro",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "ground cumin",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "chili powder",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 teaspoon",
+                "name": "smoked paprika",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "breadcrumbs",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "flaxseed meal",
+                "type": "Baking"
+            },
+            {
+                "quantity": "3 tablespoons",
+                "name": "water",
+                "type": "Drinks"
+            },
+            {
+                "quantity": "Burger buns",
+                "name": "for serving",
+                "type": "Bread"
+            },
+            {
+                "quantity": "Lettuce, tomato, avocado, onion",
+                "name": "for topping",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "In a large bowl, mash black beans with a fork or potato masher until mostly smooth.",
+            "Stir in cooked quinoa, finely chopped onion, finely chopped bell pepper, minced garlic, chopped cilantro, ground cumin, chili powder, smoked paprika, salt, and pepper.",
+            "In a small bowl, mix together flaxseed meal and water. Let sit for 5 minutes to thicken.",
+            "Add flaxseed mixture to the black bean mixture, along with breadcrumbs. Stir until well combined.",
+            "Divide mixture into 4 equal portions and shape into burger patties.",
+            "Heat a non-stick skillet over medium heat and lightly oil the surface.",
+            "Cook burger patties for 4-5 minutes on each side, until golden brown and heated through.",
+            "Serve hot on burger buns, topped with lettuce, tomato, avocado, and onion slices.",
+            "Enjoy your homemade vegan black bean burgers!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegan Chickpea Salad Sandwiches",
+        "ingredients": [
+            {
+                "quantity": "1 can (15 oz)",
+                "name": "chickpeas, drained and rinsed",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "vegan mayonnaise",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "Dijon mustard",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "lemon juice",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "chopped celery",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "chopped red onion",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "chopped fresh parsley",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 teaspoon",
+                "name": "garlic powder",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Bread slices",
+                "name": "for serving",
+                "type": "Bread"
+            },
+            {
+                "quantity": "Lettuce, tomato, avocado",
+                "name": "for topping",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "In a large bowl, mash chickpeas with a fork or potato masher until partially mashed.",
+            "Stir in vegan mayonnaise, Dijon mustard, lemon juice, chopped celery, chopped red onion, chopped fresh parsley, garlic powder, salt, and pepper.",
+            "Taste and adjust seasoning if needed.",
+            "Spread chickpea salad onto bread slices.",
+            "Top with lettuce, tomato, and avocado slices.",
+            "Cover with another slice of bread to form sandwiches.",
+            "Serve immediately and enjoy your vegan chickpea salad sandwiches!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegan Vegetable Stir-Fry",
+        "ingredients": [
+            {
+                "quantity": "2 cups",
+                "name": "broccoli florets",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "red bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "yellow bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "green bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "carrot, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "sugar snap peas",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "3 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "soy sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "sesame oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "rice vinegar",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "maple syrup",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "cornstarch",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "water",
+                "type": "Drinks"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "sesame seeds",
+                "type": "Nuts"
+            },
+            {
+                "quantity": "Cooked rice",
+                "name": "for serving",
+                "type": "Pasta and Grains"
+            }
+        ],
+        "steps": [
+            "In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, and maple syrup. Set aside.",
+            "In another small bowl, mix together cornstarch and water to make a slurry. Set aside.",
+            "In a large skillet or wok, heat a small amount of oil over medium-high heat.",
+            "Add minced garlic and sliced onion. Stir-fry for 1-2 minutes until fragrant.",
+            "Add sliced bell peppers, sliced carrot, broccoli florets, sugar snap peas, and any other desired vegetables to the skillet. Stir-fry for 4-5 minutes until vegetables are tender-crisp.",
+            "Pour the soy sauce mixture over the vegetables in the skillet. Stir well to coat.",
+            "Give the cornstarch slurry a quick stir and then pour it into the skillet. Stir continuously until the sauce thickens.",
+            "Remove from heat and sprinkle sesame seeds over the stir-fry.",
+            "Serve hot over cooked rice.",
+            "Enjoy your vegan vegetable stir-fry!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegan Thai Green Curry",
+        "ingredients": [
+            {
+                "quantity": "1 tablespoon",
+                "name": "coconut oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "red bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "yellow bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "zucchini, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 can",
+                "name": "coconut milk",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "green curry paste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "soy sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "maple syrup",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "lime juice",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "fresh basil leaves",
+                "type": "Produce"
+            },
+            {
+                "quantity": "Cooked rice",
+                "name": "for serving",
+                "type": "Pasta and Grains"
+            }
+        ],
+        "steps": [
+            "In a large skillet or wok, heat coconut oil over medium heat.",
+            "Add sliced onion and minced garlic. Sauté until onions are translucent.",
+            "Add sliced red bell pepper, sliced yellow bell pepper, and sliced zucchini to the skillet. Stir-fry for 4-5 minutes until vegetables are tender-crisp.",
+            "Stir in green curry paste and cook for another minute until fragrant.",
+            "Pour in coconut milk, soy sauce, maple syrup, and lime juice. Stir well to combine.",
+            "Let the curry simmer for 5-7 minutes, stirring occasionally.",
+            "Taste and adjust seasoning if needed.",
+            "Stir in fresh basil leaves just before serving.",
+            "Serve hot over cooked rice.",
+            "Enjoy your flavorful vegan Thai green curry!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegan Lentil Tacos",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "dried green lentils",
+                "type": "Legumes"
+            },
+            {
+                "quantity": "3 cups",
+                "name": "vegetable broth",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, finely chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "bell pepper, finely chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "jalapeno pepper, seeded and finely chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "chili powder",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "ground cumin",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "smoked paprika",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "8",
+                "name": "taco shells",
+                "type": "Bread"
+            },
+            {
+                "quantity": "Lettuce, tomato, avocado, salsa, cilantro",
+                "name": "for topping",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "In a medium saucepan, combine dried green lentils and vegetable broth. Bring to a boil, then reduce heat and simmer for 20-25 minutes, until lentils are tender and most of the liquid is absorbed.",
+            "In a large skillet, heat a small amount of oil over medium heat.",
+            "Add finely chopped onion, minced garlic, finely chopped bell pepper, and finely chopped jalapeno pepper. Sauté until vegetables are softened.",
+            "Stir in cooked lentils, chili powder, ground cumin, smoked paprika, salt, and pepper. Cook for another 5-7 minutes, stirring occasionally.",
+            "Taste and adjust seasoning if needed.",
+            "Warm taco shells according to package instructions.",
+            "Fill taco shells with lentil mixture.",
+            "Top with shredded lettuce, diced tomato, sliced avocado, salsa, and chopped cilantro.",
+            "Serve immediately and enjoy your vegan lentil tacos!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegan Sweet Potato and Black Bean Quesadillas",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "name": "medium sweet potatoes, peeled and diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "chili powder",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "ground cumin",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 teaspoon",
+                "name": "smoked paprika",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 can (15 oz)",
+                "name": "black beans, drained and rinsed",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "4",
+                "name": "whole wheat tortillas",
+                "type": "Bread"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "shredded vegan cheese",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "Salsa, guacamole, vegan sour cream",
+                "name": "for serving",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 400°F (200°C).",
+            "Place diced sweet potatoes on a baking sheet. Drizzle with olive oil and sprinkle with chili powder, ground cumin, smoked paprika, salt, and pepper. Toss to coat evenly.",
+            "Roast sweet potatoes in the preheated oven for 20-25 minutes, or until tender and slightly caramelized.",
+            "In a large bowl, mash black beans with a fork or potato masher until mostly smooth.",
+            "Lay out whole wheat tortillas on a flat surface.",
+            "Divide mashed black beans evenly among the tortillas, spreading them over half of each tortilla.",
+            "Top the black beans with roasted sweet potatoes and shredded vegan cheese.",
+            "Fold the tortillas in half over the filling to create quesadillas.",
+            "Heat a large skillet over medium heat. Place quesadillas in the skillet and cook for 2-3 minutes on each side, until golden brown and crispy, and the cheese is melted.",
+            "Remove quesadillas from the skillet and let cool for a minute before slicing into wedges.",
+            "Serve hot with salsa, guacamole, and vegan sour cream for dipping.",
+            "Enjoy your delicious vegan sweet potato and black bean quesadillas!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Vegan Coconut Curry Lentil Soup",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "red lentils",
+                "type": "Legumes"
+            },
+            {
+                "quantity": "4 cups",
+                "name": "vegetable broth",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "coconut oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "curry powder",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 teaspoon",
+                "name": "ground turmeric",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 can (14 oz)",
+                "name": "coconut milk",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1",
+                "name": "carrot, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "potato, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "spinach leaves",
+                "type": "Produce"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Fresh cilantro",
+                "name": "for garnish",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "Rinse red lentils under cold water until the water runs clear. Drain well.",
+            "In a large pot, heat coconut oil over medium heat.",
+            "Add chopped onion and minced garlic. Sauté until onions are translucent.",
+            "Stir in curry powder and ground turmeric. Cook for another minute until fragrant.",
+            "Add red lentils, vegetable broth, coconut milk, diced carrot, and diced potato to the pot. Stir to combine.",
+            "Bring the mixture to a boil, then reduce heat and let simmer for 20-25 minutes, or until lentils and vegetables are tender.",
+            "Stir in spinach leaves and let them wilt into the soup.",
+            "Season with salt and pepper to taste.",
+            "Ladle soup into bowls and garnish with fresh cilantro.",
+            "Serve hot and enjoy your vegan coconut curry lentil soup!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Quinoa Salad",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "quinoa",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "water",
+                "type": "Drinks"
+            },
+            {
+                "quantity": "1",
+                "name": "red bell pepper, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "yellow bell pepper, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2",
+                "name": "English cucumber, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "red onion, finely chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "fresh parsley, chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "lemon juice",
+                "type": "Produce"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Rinse quinoa under cold water.",
+            "In a saucepan, bring water to a boil.",
+            "Add quinoa to the boiling water, reduce heat to low, cover, and simmer for 15 minutes or until quinoa is cooked and water is absorbed.",
+            "Remove cooked quinoa from heat, fluff with a fork, and let cool.",
+            "In a large bowl, combine cooked quinoa, diced red bell pepper, diced yellow bell pepper, diced English cucumber, finely chopped red onion, and chopped fresh parsley.",
+            "In a small bowl, whisk together olive oil, lemon juice, salt, and pepper to make the dressing.",
+            "Pour the dressing over the quinoa salad and toss to combine.",
+            "Adjust seasoning if necessary.",
+            "Serve chilled and enjoy your gluten-free quinoa salad!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Chicken Stir-Fry",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "name": "chicken breasts, sliced",
+                "type": "Meat"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "tamari sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "sesame oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "carrot, julienned",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "broccoli florets",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "snap peas",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "cornstarch",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "water",
+                "type": "Drinks"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Cooked rice",
+                "name": "for serving",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "Sesame seeds",
+                "name": "for garnish",
+                "type": "Nuts"
+            },
+            {
+                "quantity": "Green onions",
+                "name": "for garnish",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "In a bowl, marinate sliced chicken breasts with tamari sauce and sesame oil. Let it sit for 15-30 minutes.",
+            "In a small bowl, mix together cornstarch and water to create a slurry. Set aside.",
+            "In a large skillet or wok, heat a small amount of oil over medium-high heat.",
+            "Add minced garlic and cook until fragrant.",
+            "Add marinated chicken slices and stir-fry until cooked through.",
+            "Add sliced bell pepper, julienned carrot, broccoli florets, and snap peas to the skillet. Stir-fry for 2-3 minutes until vegetables are tender-crisp.",
+            "Pour the cornstarch slurry into the skillet and cook until the sauce thickens.",
+            "Season with salt and pepper to taste.",
+            "Serve hot over cooked rice.",
+            "Garnish with sesame seeds and chopped green onions before serving.",
+            "Enjoy your gluten-free chicken stir-fry!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Zucchini Noodles with Pesto",
+        "ingredients": [
+            {
+                "quantity": "3",
+                "name": "zucchinis",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "fresh basil leaves",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "pine nuts",
+                "type": "Nuts"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "extra virgin olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "nutritional yeast",
+                "type": "Nuts"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Using a spiralizer, spiralize zucchinis into noodles.",
+            "In a food processor, combine fresh basil leaves, pine nuts, extra virgin olive oil, garlic cloves, and nutritional yeast. Process until smooth.",
+            "Season the pesto with salt and pepper to taste.",
+            "In a large skillet, heat a small amount of oil over medium heat.",
+            "Add zucchini noodles to the skillet and sauté for 2-3 minutes until tender.",
+            "Remove zucchini noodles from heat and toss with the prepared pesto sauce.",
+            "Serve immediately and enjoy your gluten-free zucchini noodles with pesto!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Banana Pancakes",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "name": "ripe bananas",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2",
+                "name": "eggs",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "gluten-free rolled oats",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "1/2 teaspoon",
+                "name": "baking powder",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/2 teaspoon",
+                "name": "cinnamon",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/4 teaspoon",
+                "name": "vanilla extract",
+                "type": "Baking"
+            },
+            {
+                "quantity": "Oil or butter",
+                "name": "for cooking",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Maple syrup",
+                "name": "for serving",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Fresh berries",
+                "name": "for topping",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "In a blender, combine ripe bananas, eggs, gluten-free rolled oats, baking powder, cinnamon, and vanilla extract.",
+            "Blend until smooth.",
+            "Heat a non-stick skillet or griddle over medium heat and lightly grease with oil or butter.",
+            "Pour pancake batter onto the skillet to form pancakes of desired size.",
+            "Cook until bubbles form on the surface of the pancakes, then flip and cook until golden brown on both sides.",
+            "Repeat with remaining batter.",
+            "Serve hot with maple syrup and fresh berries.",
+            "Enjoy your gluten-free banana pancakes!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Chicken and Vegetable Soup",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "name": "chicken breasts, diced",
+                "type": "Meat"
+            },
+            {
+                "quantity": "6 cups",
+                "name": "chicken broth",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "2",
+                "name": "carrots, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 stalks",
+                "name": "celery, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "bay leaf",
+                "type": "Spices"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "dried thyme",
+                "type": "Spices"
+            },
+            {
+                "quantity": "1/2 teaspoon",
+                "name": "dried rosemary",
+                "type": "Spices"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Fresh parsley",
+                "name": "for garnish",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "In a large pot, heat a small amount of oil over medium heat.",
+            "Add diced chicken breasts and cook until browned.",
+            "Add diced carrots, diced celery, diced onion, and minced garlic to the pot. Sauté until vegetables are softened.",
+            "Pour in chicken broth and add bay leaf, dried thyme, and dried rosemary.",
+            "Bring the soup to a boil, then reduce heat and let simmer for 20-25 minutes, or until vegetables are tender and chicken is cooked through.",
+            "Season with salt and pepper to taste.",
+            "Remove bay leaf before serving.",
+            "Garnish with fresh parsley.",
+            "Serve hot and enjoy your gluten-free chicken and vegetable soup!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Chocolate Avocado Mousse",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "name": "ripe avocados",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "cocoa powder",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "maple syrup",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "vanilla extract",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "coconut milk",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "Fresh berries",
+                "name": "for topping",
+                "type": "Produce"
+            },
+            {
+                "quantity": "Shredded coconut",
+                "name": "for garnish",
+                "type": "Baking"
+            }
+        ],
+        "steps": [
+            "Cut avocados in half, remove pits, and scoop the flesh into a food processor.",
+            "Add cocoa powder, maple syrup, vanilla extract, and coconut milk to the food processor.",
+            "Blend until smooth and creamy.",
+            "Taste and adjust sweetness if necessary by adding more maple syrup.",
+            "Transfer the mousse into serving bowls or glasses.",
+            "Chill in the refrigerator for at least 30 minutes before serving.",
+            "Top with fresh berries and shredded coconut before serving.",
+            "Enjoy your gluten-free chocolate avocado mousse!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Vegetable Quiche",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "name": "gluten-free pie crust",
+                "type": "Bread"
+            },
+            {
+                "quantity": "1",
+                "name": "zucchini, thinly sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "red bell pepper, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "yellow bell pepper, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "cherry tomatoes, halved",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "baby spinach",
+                "type": "Produce"
+            },
+            {
+                "quantity": "6",
+                "name": "eggs",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "milk of choice",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "shredded cheese of choice",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 375°F (190°C).",
+            "Press the gluten-free pie crust into a greased pie dish.",
+            "Arrange zucchini slices, diced red bell pepper, diced yellow bell pepper, halved cherry tomatoes, and baby spinach evenly over the crust.",
+            "In a mixing bowl, whisk together eggs and milk.",
+            "Season with salt and pepper to taste.",
+            "Pour the egg mixture over the vegetables in the pie dish.",
+            "Sprinkle shredded cheese over the top.",
+            "Bake in the preheated oven for 35-40 minutes or until the quiche is set and golden brown on top.",
+            "Remove from the oven and let it cool for a few minutes before slicing.",
+            "Serve warm or at room temperature.",
+            "Enjoy your gluten-free vegetable quiche!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            35,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Lemon Blueberry Muffins",
+        "ingredients": [
+            {
+                "quantity": "2 cups",
+                "name": "gluten-free all-purpose flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "granulated sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "baking powder",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/4 teaspoon",
+                "name": "salt",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1",
+                "name": "lemon, zest and juice",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "coconut oil, melted",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "coconut milk",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "vanilla extract",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "fresh blueberries",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 375°F (190°C).",
+            "Line a muffin tin with paper liners or grease with cooking spray.",
+            "In a large bowl, whisk together gluten-free all-purpose flour, granulated sugar, baking powder, and salt.",
+            "Add lemon zest and lemon juice to the dry ingredients and mix well.",
+            "In another bowl, whisk together melted coconut oil, coconut milk, and vanilla extract.",
+            "Pour the wet ingredients into the dry ingredients and mix until just combined.",
+            "Gently fold in fresh blueberries.",
+            "Divide the batter evenly among the muffin cups, filling each about 3/4 full.",
+            "Bake in the preheated oven for 20-25 minutes or until a toothpick inserted into the center comes out clean.",
+            "Remove from the oven and let the muffins cool in the tin for 5 minutes before transferring to a wire rack to cool completely.",
+            "Serve warm or at room temperature.",
+            "Enjoy your gluten-free lemon blueberry muffins!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            20,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Cauliflower Pizza Crust",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "name": "head of cauliflower",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "gluten-free breadcrumbs",
+                "type": "Bread"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "nutritional yeast",
+                "type": "Nuts"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "dried oregano",
+                "type": "Spices"
+            },
+            {
+                "quantity": "1/2 teaspoon",
+                "name": "garlic powder",
+                "type": "Spices"
+            },
+            {
+                "quantity": "1/4 teaspoon",
+                "name": "salt",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2",
+                "name": "eggs",
+                "type": "Dairy"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 400°F (200°C).",
+            "Cut cauliflower into florets and pulse in a food processor until it resembles rice.",
+            "Place cauliflower rice in a microwave-safe bowl and microwave for 5 minutes.",
+            "Allow cauliflower to cool, then transfer to a clean kitchen towel or cheesecloth. Squeeze out as much liquid as possible.",
+            "In a large bowl, combine cauliflower rice, gluten-free breadcrumbs, nutritional yeast, dried oregano, garlic powder, salt, and eggs.",
+            "Mix until well combined.",
+            "Line a baking sheet with parchment paper and press the cauliflower mixture into a thin, even crust shape.",
+            "Bake in the preheated oven for 25-30 minutes, or until the crust is golden brown and firm to the touch.",
+            "Remove from the oven and add desired toppings.",
+            "Return to the oven and bake for an additional 10-15 minutes, or until the toppings are heated through.",
+            "Slice and serve your gluten-free cauliflower pizza crust!",
+            "Enjoy your homemade gluten-free pizza!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            25,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Chickpea Salad",
+        "ingredients": [
+            {
+                "quantity": "2 cans (15 oz each)",
+                "name": "chickpeas, drained and rinsed",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1",
+                "name": "cucumber, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "red bell pepper, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2",
+                "name": "red onion, finely chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "fresh parsley, chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "extra virgin olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "lemon juice",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "dijon mustard",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "In a large bowl, combine drained and rinsed chickpeas, diced cucumber, diced red bell pepper, finely chopped red onion, and chopped fresh parsley.",
+            "In a small bowl, whisk together extra virgin olive oil, lemon juice, dijon mustard, salt, and pepper to make the dressing.",
+            "Pour the dressing over the chickpea salad and toss to coat evenly.",
+            "Adjust seasoning if necessary.",
+            "Serve chilled and enjoy your gluten-free chickpea salad!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Banana Bread",
+        "ingredients": [
+            {
+                "quantity": "3",
+                "name": "ripe bananas, mashed",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/3 cup",
+                "name": "coconut oil, melted",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "coconut sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "vanilla extract",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 1/2 cups",
+                "name": "gluten-free all-purpose flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "baking soda",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/4 teaspoon",
+                "name": "salt",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "chopped nuts (optional)",
+                "type": "Nuts"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C).",
+            "Grease a 9x5-inch loaf pan.",
+            "In a large bowl, combine mashed ripe bananas, melted coconut oil, coconut sugar, and vanilla extract.",
+            "In another bowl, whisk together gluten-free all-purpose flour, baking soda, and salt.",
+            "Gradually add the dry ingredients to the wet ingredients, stirring until just combined.",
+            "Fold in chopped nuts if using.",
+            "Pour the batter into the prepared loaf pan.",
+            "Bake in the preheated oven for 50-60 minutes or until a toothpick inserted into the center comes out clean.",
+            "Remove from the oven and let the banana bread cool in the pan for 10 minutes before transferring it to a wire rack to cool completely.",
+            "Slice and serve your gluten-free banana bread!",
+            "Enjoy!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            50,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Vegetable Stir-Fry",
+        "ingredients": [
+            {
+                "quantity": "2 cups",
+                "name": "broccoli florets",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "red bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "yellow bell pepper, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "carrot, julienned",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "zucchini, sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "tamari sauce",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "sesame oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "cornstarch",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "water",
+                "type": "Drinks"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Cooked rice or quinoa",
+                "name": "for serving",
+                "type": "Pasta and Grains"
+            }
+        ],
+        "steps": [
+            "In a small bowl, mix together tamari sauce, minced garlic, sesame oil, cornstarch, water, salt, and pepper to make the sauce. Set aside.",
+            "Heat a large skillet or wok over medium-high heat.",
+            "Add a small amount of oil to the skillet.",
+            "Add broccoli florets, sliced red bell pepper, sliced yellow bell pepper, julienned carrot, and sliced zucchini to the skillet. Stir-fry for 3-4 minutes until vegetables are tender-crisp.",
+            "Pour the sauce over the vegetables in the skillet.",
+            "Stir well to coat the vegetables in the sauce.",
+            "Cook for an additional 2-3 minutes until the sauce has thickened.",
+            "Remove from heat and serve hot over cooked rice or quinoa.",
+            "Enjoy your gluten-free vegetable stir-fry!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
+    },
+    {
+        "name": "Gluten-Free Lentil Soup",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "dried green lentils, rinsed and drained",
+                "type": "Pasta and Grains"
+            },
+            {
+                "quantity": "6 cups",
+                "name": "vegetable broth",
+                "type": "Canned Goods"
+            },
+            {
+                "quantity": "1",
+                "name": "onion, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2",
+                "name": "carrots, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 stalks",
+                "name": "celery, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "bay leaf",
+                "type": "Spices"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "dried thyme",
+                "type": "Spices"
+            },
+            {
+                "quantity": "1/2 teaspoon",
+                "name": "dried rosemary",
+                "type": "Spices"
+            },
+            {
+                "quantity": "Salt and pepper",
+                "name": "to taste",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "Fresh parsley",
+                "name": "for garnish",
+                "type": "Produce"
+            }
+        ],
+        "steps": [
+            "In a large pot, heat a small amount of oil over medium heat.",
+            "Add diced onion, diced carrots, diced celery, and minced garlic to the pot. Sauté until vegetables are softened.",
+            "Add dried green lentils, vegetable broth, bay leaf, dried thyme, and dried rosemary to the pot.",
+            "Bring the soup to a boil, then reduce heat and let simmer for 25-30 minutes, or until lentils are tender.",
+            "Season with salt and pepper to taste.",
+            "Remove bay leaf before serving.",
+            "Garnish with fresh parsley.",
+            "Serve hot and enjoy your gluten-free lentil soup!"
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "",
+        "originalURL": ""
     }
 ]
+
+
+
